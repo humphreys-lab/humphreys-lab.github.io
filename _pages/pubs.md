@@ -113,8 +113,6 @@ permalink: /pubs/
         Card 2
       </div>
     </div>
-  </div>
-  <div class='row'>
     <div class='col'>
       <div class='card'>
         Card 3
