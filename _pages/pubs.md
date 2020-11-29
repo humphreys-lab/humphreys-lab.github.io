@@ -3,7 +3,7 @@ layout: default
 permalink: /pubs/
 ---
 
-## Collaborations and previous works
+<h2>Collaborations and previous works</h2>
 
 <hr />
 
