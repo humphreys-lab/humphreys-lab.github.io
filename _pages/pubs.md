@@ -7,7 +7,20 @@ permalink: /pubs/
 
 <hr />
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec molestie eu turpis eu semper. Aliquam sed tempor ex. Curabitur pretium auctor tellus. Nulla vel nisl vulputate, ornare sem convallis, mollis eros. Pellentesque in lacus eros. Aliquam non turpis eu ex auctor varius eget vel orci. Aliquam pharetra leo sed risus mattis, at aliquet diam sagittis. Curabitur finibus malesuada ligula, sit amet fermentum ligula cursus nec. Praesent elit dolor, porttitor sit amet egestas a, aliquet sit amet velit. Cras ac dictum urna, at dictum nibh. Etiam ornare eleifend ultrices. Sed non condimentum urna. Sed lacinia ante quis nisl ultrices, nec tempor quam interdum. Duis sagittis fermentum nunc in tincidunt. Maecenas fringilla cursus laoreet.
+<div class="card mb-3" style="max-width: 540px;">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="..." class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      </div>
+    </div>
+  </div>
+</div>
 
 Etiam convallis purus a ornare facilisis. Sed sodales accumsan mauris, ut congue sapien pretium id. Duis viverra consectetur posuere. Integer feugiat nulla ac elit pretium gravida. Donec laoreet porttitor dolor nec accumsan. Maecenas fringilla felis sodales nisl mattis, id congue sem volutpat. Nam ut dolor a ante iaculis porttitor ultricies et nisl. Maecenas sed sapien ac turpis aliquam elementum. Aliquam at eleifend metus. Curabitur ut fermentum turpis. Nulla tempus rutrum purus, non bibendum ante vulputate at. Nulla vel viverra nulla. Duis libero risus, ultricies non rhoncus at, tristique id velit. Duis ac ex tortor. Curabitur dui metus, ornare eu ornare vel, scelerisque in augue. Aliquam eget consectetur justo, ac hendrerit lectus.
 
