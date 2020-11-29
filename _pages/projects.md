@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /services/
+permalink: /projects/
 ---
 
 ## Full length services page

@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /services/
+permalink: /pubs/
 ---
 
 ## Full length services page

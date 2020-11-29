@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /services/
+permalink: /people/
 ---
 
 ## Full length services page

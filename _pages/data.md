@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /services/
+permalink: /data/
 ---
 
 ## Full length services page
