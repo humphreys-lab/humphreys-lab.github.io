@@ -119,7 +119,7 @@ permalink: /pubs/
       </div>
     </div>
     <div class='col-md'>
-      Col 4
+      Column 4
     </div>
   </div>
 </div>
