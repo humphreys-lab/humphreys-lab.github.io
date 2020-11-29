@@ -7,16 +7,26 @@ permalink: /pubs/
 
 <hr />
 
+### Collaborations and previous works
+
 <div class="card mb-3">
   <div class="row no-gutters">
+    <!--
     <div class="col-md-4">
       <img src="..." class="card-img" alt="...">
     </div>
+    -->
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Paper title</h5>
-        <p class="card-text">Author list.</p>
-        <p class="card-text"><small class="text-muted">Journal info</small></p>
+        <h5 class="card-title">
+          Norwegian Sea net community production estimated from O<sub>2</sub> and prototype CO<sub>2</sub> optode measurements on a Seaglider
+        </h5>
+        <p class="card-text">
+          Possenti, L., Skjelvan, I., Atamanchuk, D., Tengberg, A., <u>Humphreys, M. P.</u>, Loucaides, S., Fernand, L. and Kaiser, J. (in press)
+        </p>
+        <p class="card-text"><small class="text-muted">
+          *Ocean Science Discussions*, [doi:10.5194/os-2020-72](https://doi.org/10.5194/os-2020-72)</small>
+        </p>
       </div>
     </div>
   </div>
