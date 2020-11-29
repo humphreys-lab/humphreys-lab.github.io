@@ -2,7 +2,7 @@ title: Humphreys lab @ NIOZ Texel
 description: Marine carbonate chemistry at the NIOZ Royal Netherlands Institute for Sea Research
 
 baseurl: /
-color-scheme: "#047495"
+color-scheme: "#177192"
 
 sass:
   sass_dir: /assets/css/_sass
