@@ -105,7 +105,9 @@ permalink: /pubs/
   <div class='row row-cols-2'>
     <div class='col'>
       <div class='card'>
-        Norwegian Sea net community production estimated from O<sub>2</sub> and prototype CO<sub>2</sub> optode measurements on a Seaglider
+        <h5 class="card-title">
+          Norwegian Sea net community production estimated from O<sub>2</sub> and prototype CO<sub>2</sub> optode measurements on a Seaglider
+        </h5>
       </div>
     </div>
     <div class='col'>
