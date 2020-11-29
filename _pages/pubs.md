@@ -3,11 +3,9 @@ layout: default
 permalink: /pubs/
 ---
 
-## Publications
+## Collaborations and previous works
 
 <hr />
-
-### Collaborations and previous works
 
 <div class='container'>
   <div class='row'>
