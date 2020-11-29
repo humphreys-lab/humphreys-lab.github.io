@@ -2,7 +2,7 @@ title: Humphreys lab @ NIOZ Texel
 description: A business home page starter template for Bootstrap 4 featuring marketing boxes and a full width image header.
 
 baseurl: /
-color-scheme: "#03719c"
+color-scheme: "#047495"
 
 sass:
   sass_dir: /assets/css/_sass
