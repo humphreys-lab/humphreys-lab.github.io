@@ -103,22 +103,22 @@ permalink: /pubs/
 
 <div class='container'>
   <div class='row'>
-    <div class='col-md'>
+    <div class='col-lg'>
       <div class='card'>
-        Card 1
+        Norwegian Sea net community production estimated from O<sub>2</sub> and prototype CO<sub>2</sub> optode measurements on a Seaglider
       </div>
     </div>
-    <div class='col-md'>
+    <div class='col-lg'>
       <div class='card'>
         Card 2
       </div>
     </div>
-    <div class='col-md'>
+    <div class='col-lg'>
       <div class='card'>
         Card 3
       </div>
     </div>
-    <div class='col-md'>
+    <div class='col-lg'>
       Column 4
     </div>
   </div>
