@@ -109,13 +109,13 @@ permalink: /pubs/
       <div class='card'>
         <div class="card-body">
           <h5 class="card-title">
-            Norwegian Sea net community production estimated from O<sub>2</  sub> and prototype CO<sub>2</sub> optode measurements on a   Seaglider
+            Norwegian Sea net community production estimated from O<sub>2</sub> and prototype CO<sub>2</sub> optode measurements on a Seaglider
           </h5>
           <p class="card-text">
             Possenti, L., Skjelvan, I., Atamanchuk, D., Tengberg, A.,   <u>Humphreys, M. P.</u>, Loucaides, S., Fernand, L. and   Kaiser, J. (in review)
           </p>
           <p class="card-text"><small class="text-muted">
-            <i>Ocean Science Discussions,</i> <a href='https://doi.org/10.  5194/os-2020-72'>doi:10.5194/os-2020-72</a></small>
+            <i>Ocean Science Discussions,</i> <a href='https://doi.org/10.5194/os-2020-72'>doi:10.5194/os-2020-72</a></small>
           </p>
         </div>
       </div>
