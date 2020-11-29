@@ -121,7 +121,7 @@ permalink: /pubs/
       </div>
     </div>
     <div class='col-6'>
-      Column 4
+      Column 4 cou
     </div>
   </div>
 </div>
