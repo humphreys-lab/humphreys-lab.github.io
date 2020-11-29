@@ -106,7 +106,7 @@ permalink: /pubs/
 <div class='container'>
   <div class='row'>
     <div class='col-12 mb-3'>
-      <div class='card'>
+      <div class='card border-0 shadow'>
         <div class="card-body">
           <h5 class="card-title">
             Norwegian Sea net community production estimated from O<sub>2</sub> and prototype CO<sub>2</sub> optode measurements on a Seaglider
@@ -121,7 +121,7 @@ permalink: /pubs/
       </div>
     </div>
     <div class='col-12 mb-3'>
-      <div class='card'>
+      <div class='card shadow'>
         <div class="card-body">
           <h5 class="card-title">
             Short-term responses to ocean acidification: effects on relative abundance of eukaryotic plankton from the tropical Timor Sea
