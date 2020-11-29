@@ -16,10 +16,10 @@ permalink: /pubs/
       <img src="..." class="card-img" alt="...">
     </div>
     -->
-    <div class="col">
+    <div class="col mb-3">
       <div class="card-body">
         <h5 class="card-title">
-          Norwegian Sea net community production estimated from O<sub>2</sub> and prototype CO<sub>2</sub> optode measurements on a Seaglider
+          Norwegian Sea net community production estimated from O<sub>2</sub> and prototype CO<sub>2</sub> optode measurements on a Seagliderrrr
         </h5>
         <p class="card-text">
           Possenti, L., Skjelvan, I., Atamanchuk, D., Tengberg, A., <u>Humphreys, M. P.</u>, Loucaides, S., Fernand, L. and Kaiser, J. (in review)
