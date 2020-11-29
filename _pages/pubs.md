@@ -104,7 +104,9 @@ permalink: /pubs/
 <div class='container'>
   <div class='row'>
     <div class='col'>
-      Col 1
+      <div class='card'>
+        Card 1
+      </div>
     </div>
     <div class='col'>
       Col 2
