@@ -9,6 +9,8 @@ permalink: /pubs/
 
 ### Collaborations and previous works
 
+<div class="col">
+
 <div class="card border-0 shadow">
   <div class="row no-gutters">
     <!--
@@ -31,8 +33,6 @@ permalink: /pubs/
     </div>
   </div>
 </div>
-
-<br />
 
 <div class="card border-0 shadow">
   <div class="row no-gutters">
@@ -57,8 +57,6 @@ permalink: /pubs/
   </div>
 </div>
 
-<br />
-
 <div class="card border-0 shadow">
   <div class="row no-gutters">
     <!--
@@ -80,4 +78,6 @@ permalink: /pubs/
       </div>
     </div>
   </div>
+</div>
+
 </div>
