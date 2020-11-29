@@ -56,3 +56,28 @@ permalink: /pubs/
     </div>
   </div>
 </div>
+
+<br />
+
+<div class="card border-0 shadow">
+  <div class="row no-gutters">
+    <!--
+    <div class="col-md-4">
+      <img src="..." class="card-img" alt="...">
+    </div>
+    -->
+    <div class="col">
+      <div class="card-body">
+        <h5 class="card-title">
+          Air-sea CO<sub>2</sub> exchange and ocean acidification in UK seas and adjacent waters
+        </h5>
+        <p class="card-text">
+          <u>Humphreys, M. P.</u>, Artioli, Y., Bakker, D. C. E., Hartman, S. E., León, P., Wakelin, S., Walsham, P. and Williamson, P. (2020)
+        </p>
+        <p class="card-text"><small class="text-muted">
+          In <i>MCCIP Science Review 2020,</i> 54-75, <a href='https://doi.org/10.14465/2020.arc03.oac'>doi:10.14465/2020.arc03.oac</a></small>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
