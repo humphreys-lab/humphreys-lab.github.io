@@ -1,11 +1,17 @@
-- title: Home
-  link: /
+- title: Research themes
+  link: /themes/
 
-- title: About
-  link: /about/
+- title: Projects
+  link: /projects/
 
-- title: Services
-  link: "/services/"
+- title: People
+  link: /people/
 
-- title: Contact
-  link: "/contact/"
+- title: Publications
+  link: /pubs/
+
+- title: Datasets
+  link: /data/
+
+- title: Get in touch
+  link: /contact/
