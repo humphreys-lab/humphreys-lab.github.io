@@ -9,7 +9,7 @@ permalink: /pubs/
 
 ### Collaborations and previous works
 
-<div class="col">
+<div class="container">
 
 <div class="card border-0 shadow">
   <div class="row no-gutters">
