@@ -41,7 +41,7 @@ permalink: /pubs/
         </div>
       </div>
     </div>
-    <div class='col-12 mb-2'>
+    <div class='col-12 mb-3'>
       <div class='card border-0 shadow'>
         <div class="card-body">
           <h5 class="card-title">
@@ -56,7 +56,7 @@ permalink: /pubs/
         </div>
       </div>
     </div>
-    <div class='col-12 mb-2'>
+    <div class='col-12 mb-3'>
       <div class='card border-0 shadow'>
         <div class="card-body">
           <h5 class="card-title">
