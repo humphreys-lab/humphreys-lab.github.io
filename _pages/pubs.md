@@ -32,6 +32,29 @@ permalink: /pubs/
   </div>
 </div>
 
+<div class="card border-0 shadow">
+  <div class="row no-gutters">
+    <!--
+    <div class="col-md-4">
+      <img src="..." class="card-img" alt="...">
+    </div>
+    -->
+    <div class="col">
+      <div class="card-body">
+        <h5 class="card-title">
+          Short-term responses to ocean acidification: effects on relative abundance of eukaryotic plankton from the tropical Timor Sea
+        </h5>
+        <p class="card-text">
+          Rahlff, J., Khodami, S., Voskuhl, L., <u>Humphreys, M. P.</u>, Stolle, C., Martinez Arbizu, P., Wurl, O. and Ribas-Ribas, M. (2020)
+        </p>
+        <p class="card-text"><small class="text-muted">
+          <i>bioRxiv,</i> 2020.04.30.068601, <a href='https://doi.org/10.1101/2020.04.30.068601'>doi:10.1101/2020.04.30.068601</a></small>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
 Etiam convallis purus a ornare facilisis. Sed sodales accumsan mauris, ut congue sapien pretium id. Duis viverra consectetur posuere. Integer feugiat nulla ac elit pretium gravida. Donec laoreet porttitor dolor nec accumsan. Maecenas fringilla felis sodales nisl mattis, id congue sem volutpat. Nam ut dolor a ante iaculis porttitor ultricies et nisl. Maecenas sed sapien ac turpis aliquam elementum. Aliquam at eleifend metus. Curabitur ut fermentum turpis. Nulla tempus rutrum purus, non bibendum ante vulputate at. Nulla vel viverra nulla. Duis libero risus, ultricies non rhoncus at, tristique id velit. Duis ac ex tortor. Curabitur dui metus, ornare eu ornare vel, scelerisque in augue. Aliquam eget consectetur justo, ac hendrerit lectus.
 
 Fusce ullamcorper nisl eros. Mauris sed urna mattis, mattis velit non, dignissim massa. Aenean maximus ligula sed diam tincidunt, sed tempor metus finibus. Morbi ut nisi id sapien viverra malesuada ut ut dui. Mauris ut mollis magna, viverra fermentum metus. Proin ac ipsum quis mauris interdum sagittis. Fusce id massa eu dolor pharetra efficitur a sed nisi. Quisque quis gravida purus. Morbi facilisis sapien et tellus convallis, eu mattis nisl volutpat. Aliquam quis vehicula leo. Phasellus posuere dui orci, eu luctus neque sollicitudin sit amet. Donec nunc massa, posuere quis leo eget, porta dapibus velit. Maecenas quis pulvinar orci.
