@@ -11,14 +11,11 @@
         {%- endif -%}
         {%- if paper.pages -%}
         , {{ paper.pages }}
-        {%- endif -%}
-        {%- if paper.doi -%}
-        , <a href="https://doi.org/{{ paper.doi }}">doi:{{ paper.doi }}</a>
-        {%- endif -%}
+        {%- endif -%}.
       </small></p>
       {%- if paper.doi -%}
-      <p class="card-text">
-        <a class="btn btn-primary btn-sm" href="#">doi:{{ paper.doi }} &raquo;</a>
+      <p class="card-text text-right">
+        <a class="btn btn-primary btn-sm" href="https://doi.org/{{ paper.doi }}">doi:{{ paper.doi }} &raquo;</a>
       </p>
       {%- endif -%}
     </div>
