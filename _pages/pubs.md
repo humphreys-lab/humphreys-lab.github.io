@@ -1,10 +1,32 @@
 ---
+title: Scientific publications
+blurb: 
 layout: default
 permalink: /pubs/
 ---
 
-<h2>Collaborations and previous work</h2>
+<h2>Works led by the Humphreys lab</h2>
+<hr />
 
+<div class='container'>
+    <div class='col-12 mb-3'>
+      <div class='card border-0 shadow'>
+        <div class="card-body">
+          <h5 class="card-title">
+            Air-sea CO<sub>2</sub> exchange and ocean acidification in UK seas and adjacent waters
+          </h5>
+          <p class="card-text">
+            <u>Humphreys, M. P.</u>, Artioli, Y., Bakker, D. C. E., Hartman, S. E., León, P., Wakelin, S., Walsham, P. and Williamson, P. (2020)
+          </p>
+          <p class="card-text"><small class="text-muted">
+            In <i>MCCIP Science Review 2020,</i> 54-75, <a href='https://doi.org/10.14465/2020.arc03.oac'>doi:10.14465/2020.arc03.oac</a></small>
+          </p>
+        </div>
+      </div>
+    </div>
+</div>
+
+<h2>Collaborations and previous work</h2>
 <hr />
 
 <div class='container'>
@@ -35,21 +57,6 @@ permalink: /pubs/
           </p>
           <p class="card-text"><small class="text-muted">
             <i>bioRxiv,</i> 2020.04.30.068601, <a href='https://doi.org/10.1101/2020.04.30.068601'>doi:10.1101/2020.04.30.068601</a></small>
-          </p>
-        </div>
-      </div>
-    </div>
-    <div class='col-12 mb-3'>
-      <div class='card border-0 shadow'>
-        <div class="card-body">
-          <h5 class="card-title">
-            Air-sea CO<sub>2</sub> exchange and ocean acidification in UK seas and adjacent waters
-          </h5>
-          <p class="card-text">
-            <u>Humphreys, M. P.</u>, Artioli, Y., Bakker, D. C. E., Hartman, S. E., León, P., Wakelin, S., Walsham, P. and Williamson, P. (2020)
-          </p>
-          <p class="card-text"><small class="text-muted">
-            In <i>MCCIP Science Review 2020,</i> 54-75, <a href='https://doi.org/10.14465/2020.arc03.oac'>doi:10.14465/2020.arc03.oac</a></small>
           </p>
         </div>
       </div>
