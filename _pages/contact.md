@@ -1,6 +1,6 @@
 ---
 title: Get in touch
-blurb: As part of the <a href='https://www.nioz.nl/en/about/ocs'>Department of Ocean Systems</a>, we are based at the <a href='https://www.nioz.nl/en'>NIOZ Royal Netherlands Insitute for Sea Research</a> site on the beautiful Wadden Island of <a href='https://www.texel.net/en/see-and-do/'>Texel</a>.
+blurb: As part of the Department of Ocean Systems (OCS) at the NIOZ Royal Netherlands Insitute for Sea Research, we are based on the beautiful Wadden Island of Texel, on the edge of the North Sea.
 layout: default
 permalink: /contact/
 ---
