@@ -1,4 +1,6 @@
 ---
+title: Our research team
+blurb: 
 layout: default
 permalink: /people/
 ---
