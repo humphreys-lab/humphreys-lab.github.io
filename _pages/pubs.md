@@ -7,7 +7,7 @@ permalink: /pubs/
 
 <h2>Works led by the Humphreys lab</h2>
 <hr />
-test
+
 <div class='container'>
   {% for paper in site.data.papers_hlab %}
     <div class='col-12 mb-3'>
@@ -34,22 +34,32 @@ test
 <hr />
 
 <div class='container'>
-  <div class='row'>
+  {% for paper in site.data.papers_other %}
     <div class='col-12 mb-3'>
       <div class='card border-0 shadow'>
         <div class="card-body">
           <h5 class="card-title">
-            Norwegian Sea net community production estimated from O<sub>2</sub> and prototype CO<sub>2</sub> optode measurements on a Seaglider
+            {{ paper.title }}
           </h5>
           <p class="card-text">
-            Possenti, L., Skjelvan, I., Atamanchuk, D., Tengberg, A.,   <u>Humphreys, M. P.</u>, Loucaides, S., Fernand, L. and   Kaiser, J. (in review)
+            {{ paper.authors }} ({{ paper.year }})
           </p>
           <p class="card-text"><small class="text-muted">
-            <i>Ocean Science Discussions,</i> <a href='https://doi.org/10.5194/os-2020-72'>doi:10.5194/os-2020-72</a></small>
+            <i>{{ paper.journal }}</i>
+            {%- if paper.info -%}
+            , {{ paper.info }}
+            {%- endif -%}
+            {%- if paper.doi -%}
+            , <a href="https://doi.org/{{ paper.doi }}">doi:{{ paper.doi }}</a>
+            {%- endif -%}
           </p>
         </div>
       </div>
     </div>
+  {% endfor %}
+</div>
+
+<div class='container'>
     <div class='col-12 mb-3'>
       <div class='card border-0 shadow'>
         <div class="card-body">
