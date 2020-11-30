@@ -2,14 +2,14 @@
   <div class='card border-0 shadow'>
     <div class="row no-gutters">
       {%- if paper.image -%}
-      <div class="col-12 col-md-3 text-center">
+      <div class="col-12 col-md-3 text-center align-middle">
         <img src="{{ paper.image }}" class="img-fluid" style="max-height: 200px;" alt="" />
       </div>
       <div class="col-12 col-md-9">
       {%- else -%}
       <div class="col-auto">
       {%- endif -%}
-        <div class="card-body">
+        <div class="card-body align-middle">
           <h5 class="card-title">
             {{ paper.title }}
           </h5>
