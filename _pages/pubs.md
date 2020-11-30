@@ -1,6 +1,6 @@
 ---
 title: Scientific publications
-blurb: We lead research into the contemporary marine carbonate system.  We also contribute to a wider range of studies related to this field, including ocean acidification impacts, palaeoceanographic proxy testing, and sensor development.
+blurb: We lead research into the contemporary marine carbonate system.  We also contribute to a range of related studies, including ocean acidification impacts, palaeoceanographic proxy testing, and sensor development.
 layout: default
 permalink: /pubs/
 ---
