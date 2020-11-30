@@ -16,6 +16,11 @@
         , <a href="https://doi.org/{{ paper.doi }}">doi:{{ paper.doi }}</a>
         {%- endif -%}
       </small></p>
+      {%- if paper.doi -%}
+      <p class="card-text">
+        <a class="btn btn-primary btn-sm" href="#">doi:{{ paper.doi }} &raquo;</a>
+      </p>
+      {%- endif -%}
     </div>
   </div>
 </div>
