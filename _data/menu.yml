@@ -7,11 +7,14 @@
 - title: People
   link: /people/
 
-- title: Publications
-  link: /papers/
+- title: Expeditions
+  link: /cruises/
 
 - title: Datasets
   link: /data/
+
+- title: Publications
+  link: /papers/
 
 - title: Get in touch
   link: /contact/
