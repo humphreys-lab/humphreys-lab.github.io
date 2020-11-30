@@ -4,9 +4,9 @@
       <h5 class="card-title">
         {{ paper.title }}
       </h5>
-      <p class="card-text">
+      <p class="card-text"><small>
         {{ paper.authors }} ({{ paper.year }})
-      </p>
+      </small></p>
       <p class="card-text"><small class="text-muted">
         <i>{{ paper.journal }}</i>
         {%- if paper.volume -%}
