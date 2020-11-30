@@ -1,24 +1,27 @@
 <div class='col-12 mb-3'>
   <div class='card border-0 shadow'>
     <div class="row no-gutters">
-      <div class="card-body">
-        <h5 class="card-title">
-          {{ paper.title }}
-        </h5>
-        <p class="card-text"><small>
-          {{ paper.authors }} ({{ paper.year }}). <i>{{ paper.journal }}</i>
-          {%- if paper.volume -%}
-          &nbsp;{{ paper.volume }}
+      <div class="col-3">&nbsp;</div>
+      <div class="col-9">
+        <div class="card-body">
+          <h5 class="card-title">
+            {{ paper.title }}
+          </h5>
+          <p class="card-text"><small>
+            {{ paper.authors }} ({{ paper.year }}). <i>{{ paper.journal }}</i>
+            {%- if paper.volume -%}
+            &nbsp;{{ paper.volume }}
+            {%- endif -%}
+            {%- if paper.pages -%}
+            , {{ paper.pages }}
+            {%- endif -%}.
+          </small></p>
+          {%- if paper.doi -%}
+          <p class="card-text">
+            <a class="btn btn-outline-primary btn-sm" href="https://doi.org/{{ paper.doi }}">doi:{{ paper.doi }}</a>
+          </p>
           {%- endif -%}
-          {%- if paper.pages -%}
-          , {{ paper.pages }}
-          {%- endif -%}.
-        </small></p>
-        {%- if paper.doi -%}
-        <p class="card-text">
-          <a class="btn btn-outline-primary btn-sm" href="https://doi.org/{{ paper.doi }}">doi:{{ paper.doi }}</a>
-        </p>
-        {%- endif -%}
+        </div>
       </div>
     </div>
   </div>
