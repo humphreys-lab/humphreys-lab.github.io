@@ -11,7 +11,14 @@ permalink: /people/
 <div class="container-fluid">
   <div class="row">
     <div class="col-12 col-md-4">
-      Person 1
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">Dr Matthew Humphreys</h5>
+          <p class="card-text">
+            Description
+          </p>
+        </div>
+      </div>
     </div>
     <div class="col-12 col-md-4">
       Person 2
