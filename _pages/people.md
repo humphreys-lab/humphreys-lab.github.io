@@ -10,8 +10,8 @@ permalink: /people/
 
 <div class="container-fluid">
   <div class="row">
-    <div class="col-12 col-md-4">
-      <div class="card">
+    <div class="col-12 col-md-4 mb-5">
+      <div class="card border-0 shadow">
         <img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/fallowfields.jpg" class="card-img-top" alt="Matthew Humphreys">
         <div class="card-body">
           <h5 class="card-title">Dr Matthew Humphreys</h5>
