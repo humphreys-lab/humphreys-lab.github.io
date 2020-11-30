@@ -5,6 +5,23 @@
         {{ paper.title }}
       </h5>
       <p class="card-text"><small>
+        {{ paper.authors }} ({{ paper.year }}). <i>{{ paper.journal }}</i>
+        {%- if paper.volume -%}
+        &nbsp;{{ paper.volume }}
+        {%- endif -%}
+        {%- if paper.pages -%}
+        , {{ paper.pages }}
+        {%- endif -%}
+        {%- if paper.doi -%}
+        , <a href="https://doi.org/{{ paper.doi }}">doi:{{ paper.doi }}</a>
+        {%- endif -%}
+      </small></p>
+    </div>
+  </div>
+</div>
+
+<!--
+      <p class="card-text"><small>
         {{ paper.authors }} ({{ paper.year }})
       </small></p>
       <p class="card-text"><small class="text-muted">
@@ -19,6 +36,4 @@
         , <a href="https://doi.org/{{ paper.doi }}">doi:{{ paper.doi }}</a>
         {%- endif -%}
       </small></p>
-    </div>
-  </div>
-</div>
+-->
