@@ -7,24 +7,9 @@ permalink: /pubs/
 
 <h2>Works led by the Humphreys lab</h2>
 <hr />
-
 <div class='container'>
   {% for paper in site.data.papers_hlab %}
-    <div class='col-12 mb-3'>
-      <div class='card border-0 shadow'>
-        <div class="card-body">
-          <h5 class="card-title">
-            {{ paper.title }}
-          </h5>
-          <p class="card-text">
-            {{ paper.authors }} ({{ paper.year }})
-          </p>
-          <p class="card-text"><small class="text-muted">
-            {{ paper.info }}
-          </p>
-        </div>
-      </div>
-    </div>
+    {% include publication.html %}
   {% endfor %}
 </div>
 
@@ -32,7 +17,6 @@ permalink: /pubs/
 
 <h2>Collaborations and previous work</h2>
 <hr />
-
 <div class='container'>
   {% for paper in site.data.papers_other %}
     {% include publication.html %}
