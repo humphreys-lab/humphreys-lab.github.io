@@ -7,23 +7,25 @@ permalink: /pubs/
 
 <h2>Works led by the Humphreys lab</h2>
 <hr />
-
+test
 <div class='container'>
+  {% for paper in site.data.papers_hlab %}
     <div class='col-12 mb-3'>
       <div class='card border-0 shadow'>
         <div class="card-body">
           <h5 class="card-title">
-            Air-sea CO<sub>2</sub> exchange and ocean acidification in UK seas and adjacent waters
+            {{ paper.title }}
           </h5>
           <p class="card-text">
-            <u>Humphreys, M. P.</u>, Artioli, Y., Bakker, D. C. E., Hartman, S. E., León, P., Wakelin, S., Walsham, P. and Williamson, P. (2020)
+            {{ paper.authors }} ({{ paper.year }})
           </p>
           <p class="card-text"><small class="text-muted">
-            In <i>MCCIP Science Review 2020,</i> 54-75, <a href='https://doi.org/10.14465/2020.arc03.oac'>doi:10.14465/2020.arc03.oac</a></small>
+            {{ paper.info }}
           </p>
         </div>
       </div>
     </div>
+  {% endfor %}
 </div>
 
 <br />
