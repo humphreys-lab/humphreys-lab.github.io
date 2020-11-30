@@ -1,7 +1,11 @@
 <div class='col-12 mb-3'>
   <div class='card border-0 shadow'>
     <div class="row no-gutters">
-      <div class="col-auto">Test</div>
+      {%- if paper.image -%}
+      <div class="col-auto">
+        Test
+      </div>
+      {%- endif -%}
       <div class="col-auto">
         <div class="card-body">
           <h5 class="card-title">
