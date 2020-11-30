@@ -52,7 +52,7 @@ permalink: /pubs/
             {%- if paper.doi -%}
             , <a href="https://doi.org/{{ paper.doi }}">doi:{{ paper.doi }}</a>
             {%- endif -%}
-          </p>
+          </small></p>
         </div>
       </div>
     </div>
