@@ -8,7 +8,7 @@ permalink: /cruises/
 <hr />
 
 <div class='container-fluid'>
-<div class='row'>
+<div class='row mb-6'>
   <div class='col-12 col-md-6 mb-6'>
     <div class='card border-0 shadow'>
       <div class="row no-gutters">
