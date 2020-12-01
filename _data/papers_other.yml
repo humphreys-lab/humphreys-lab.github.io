@@ -1,6 +1,6 @@
 - title: Norwegian Sea net community production estimated from O<sub>2</sub> and prototype CO<sub>2</sub> optode measurements on a Seaglider
   year: in review
-  authors: Possenti, L., Skjelvan, I., Atamanchuk, D., Tengberg, A., <b>Humphreys, M. P.</b>, Loucaides, S., Fernand, L. and Kaiser, J.
+  authors: <b>Possenti, L.</b>, Skjelvan, I., Atamanchuk, D., Tengberg, A., <b>Humphreys, M. P.</b>, Loucaides, S., Fernand, L. and Kaiser, J.
   journal: Ocean Science Discussions
   doi: 10.5194/os-2020-72
 
@@ -26,6 +26,7 @@
   volume: 501
   pages: 338–344
   doi: 10.1016/j.aquaculture.2018.11.028
+#  image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/aquaculture.png"
 
 - title: Surface ocean carbonate chemistry and air-sea CO<sub>2</sub> fluxes across the northwest European continental shelf sea
   year: 2019
