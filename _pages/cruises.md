@@ -25,9 +25,9 @@ permalink: /cruises/
             </p>
           </div>
         </div>
-        -->
-        test
       </div>
+      -->
+      test
     </div>
   </div>
   <div class='col-12 col-md-6 mb-6'>
@@ -47,9 +47,9 @@ permalink: /cruises/
             </p>
           </div>
         </div>
-        -->
-        test
       </div>
+      -->
+      test
     </div>
   </div>
 </div>
