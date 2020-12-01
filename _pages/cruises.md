@@ -18,7 +18,7 @@ permalink: /cruises/
           </div>
           <div class="col">
           <div class="card-body">
-              <h5 class="card-title">{{ cruise.code }}—{{ cruise.vessel }}</h5>
+              <h5 class="card-title">{{ cruise.code }}: {{ cruise.vessel }}</h5>
               <p class="card-text">
               {{cruise.blurb}}
               <br />
