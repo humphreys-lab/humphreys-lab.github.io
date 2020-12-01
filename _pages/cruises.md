@@ -16,9 +16,9 @@ permalink: /cruises/
         </div>
         <div class="col-12 col-md-7">
           <div class="card-body">
-            <h5 class="card-title">JC068</h5>
+            <h5 class="card-title">JC068 (RRS <i>James Cook</i>)</h5>
             <p class="card-text">
-              RRS <i>James Cook</i>
+              GEOTRACES transect
               <br />
               <small>Cruise dates from to</small>
             </p>
