@@ -12,8 +12,8 @@ permalink: /cruises/
   <div class='col-12 col-md-6 mb-5'>
     <div class='card border-0 shadow'>
       <div class="row no-gutters">
-          <div class="col">
-          <img src="https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/cruise-globes/cruise-globe-{{ cruise.code }}.png" class="img-fluid" style="max-height: 100px;" alt="Cruise map" />
+          <div class="col-3">
+            <img src="https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/cruise-globes/cruise-globe-{{ cruise.code }}.png" class="img-fluid" style="max-height: 100px;" alt="Cruise map" />
           </div>
           <div class="col">
           <div class="card-body">
