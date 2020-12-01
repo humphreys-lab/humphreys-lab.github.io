@@ -7,8 +7,7 @@ permalink: /cruises/
 ## Research expeditions
 <hr />
 
-<div class='container-fluid'>
-<div class='row mb-6'>
+<div class='container'>
   <div class='col-12 col-md-6 mb-6'>
     <div class='card border-0 shadow'>
       <div class="row no-gutters">
@@ -47,5 +46,4 @@ permalink: /cruises/
       </div>
     </div>
   </div>
-</div>
 </div>
