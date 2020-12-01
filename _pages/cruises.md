@@ -10,7 +10,7 @@ permalink: /cruises/
 
 <div class='row'>
 {% for cruise in site.data.cruises %}
-  <div class='col-12 col-md-6 mb-5'>
+  <div class='col-12 col-md-6 mb-4'>
     <div class='card border-0 shadow'>
       <div class="row no-gutters">
           <div class="col-12 col-md-4 text-center">

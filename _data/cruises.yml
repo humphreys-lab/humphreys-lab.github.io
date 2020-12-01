@@ -10,19 +10,19 @@
 
 - code: JR274
   vessel: RRS <i>James Clark Ross</i>
-  blurb: "UK Ocean Acidification research programme: Arctic Ocean cruise"
+  blurb: "UK Ocean Acidification research programme: Arctic Ocean expedition."
   date_from: January
   date_to: February 2013
 
 - code: JR271
   vessel: RRS <i>James Clark Ross</i>
-  blurb: UK Ocean Acidification research programme
+  blurb: "UK Ocean Acidification research programme: Southern Ocean expedition."
   date_from: June
   date_to: July 2012
 
 - code: JC068
   vessel: RRS <i>James Cook</i>
-  blurb: GEOTRACES transect GA
+  blurb: <a href='https://www.bodc.ac.uk/geotraces/'>GEOTRACES</a> transect GA10.
   date_from: December 2011
   date_to: January 2012
 
