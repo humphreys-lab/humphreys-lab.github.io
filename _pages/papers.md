@@ -5,7 +5,7 @@ layout: default
 permalink: /papers/
 ---
 
-<h2>Studies led by the Humphreys lab</h2>
+<h2>Our key outputs</h2>
 <hr />
 <div class='container'>
   {% for paper in site.data.papers_hlab %}
