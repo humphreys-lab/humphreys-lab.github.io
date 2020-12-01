@@ -1,6 +1,6 @@
 ---
 title: Science at sea
-blurb: Collecting and measuring seawater samples for CO<sub>2</sub> system properties is at the heart of our mission.
+blurb: Collecting and measuring seawater samples to monitor the changing marine carbon cycle is at the heart of our mission.  We travel around the world on research ships to this end.
 layout: default
 permalink: /cruises/
 ---
@@ -13,8 +13,8 @@ permalink: /cruises/
   <div class='col-12 col-md-6 mb-5'>
     <div class='card border-0 shadow'>
       <div class="row no-gutters">
-          <div class="col-3">
-            <img src="https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/cruise-globes/cruise-globe-{{ cruise.code }}.png" class="img-fluid" style="max-height: 100px;" alt="Cruise map" />
+          <div class="col-4">
+            <img src="https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/cruise-globes/cruise-globe-{{ cruise.code }}.png" class="img-fluid" style="max-height: 200px;" alt="Cruise map" />
           </div>
           <div class="col">
           <div class="card-body">
