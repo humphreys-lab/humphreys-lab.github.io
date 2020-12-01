@@ -25,7 +25,7 @@ permalink: /cruises/
               <small>
                 {{ cruise.date_from }}
                 {%- if cruise.date_to -%}
-                —{{ cruise.date_to }}
+                –{{ cruise.date_to }}
                 {%- endif -%}
               </small>
               </p>
