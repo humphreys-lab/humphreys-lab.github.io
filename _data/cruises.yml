@@ -5,7 +5,7 @@
 
 - code: JR18002
   vessel: RRS <i>James Clark Ross</i>
-  blurb: Drake Passage
+  blurb: Repeat occupation of the <a href="https://projects.noc.ac.uk/drake-passage/cruises-and-data">SR1b transect</a> across the Drake Passage.
   date_from: November 2018
 
 - code: JR274
@@ -22,7 +22,7 @@
 
 - code: JC068
   vessel: RRS <i>James Cook</i>
-  blurb: <a href='https://www.bodc.ac.uk/geotraces/'>GEOTRACES</a> transect GA10.
+  blurb: <a href='https://www.geotraces.org/'>GEOTRACES</a> transect GA10.
   date_from: December 2011
   date_to: January 2012
 
