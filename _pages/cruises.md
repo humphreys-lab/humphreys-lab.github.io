@@ -1,5 +1,6 @@
 ---
 title: Science at sea
+blurb: Collecting and measuring seawater samples for CO<sub>2</sub> system properties is at the heart of our mission.
 layout: default
 permalink: /cruises/
 ---
