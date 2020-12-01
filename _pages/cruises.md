@@ -35,9 +35,9 @@ permalink: /cruises/
         </div>
         <div class="col">
           <div class="card-body">
-            <h5 class="card-title">D368</h5>
+            <h5 class="card-title">D368 (RRS <i>Discovery</i>)</h5>
             <p class="card-text">
-              RRS <i>Discovery</i>
+              Repeat
               <br />
               <small>Cruise dates from to</small>
             </p>
