@@ -10,6 +10,7 @@ permalink: /cruises/
 <div class='container'>
   <div class='col-12 col-md-6 mb-6'>
     <div class='card border-0 shadow'>
+      <!--
       <div class="row no-gutters">
         <div class="col">
           <img src="https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/cruise-globes/cruise-globe-JC068.png" class="img-fluid" style="max-height: 500px;" alt="Cruise map" />
@@ -24,11 +25,14 @@ permalink: /cruises/
             </p>
           </div>
         </div>
+        -->
+        test
       </div>
     </div>
   </div>
   <div class='col-12 col-md-6 mb-6'>
     <div class='card border-0 shadow'>
+      <!--
       <div class="row no-gutters">
         <div class="col">
           <img src="https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/cruise-globes/cruise-globe-D368.png" class="img-fluid" style="max-height: 500px;" alt="Cruise map" />
@@ -43,6 +47,8 @@ permalink: /cruises/
             </p>
           </div>
         </div>
+        -->
+        test
       </div>
     </div>
   </div>
