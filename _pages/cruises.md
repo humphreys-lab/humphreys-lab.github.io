@@ -19,6 +19,7 @@ permalink: /cruises/
             <h5 class="card-title">D368</h5>
             <p class="card-text">
               RRS <i>Discovery</i>
+              <br />
               <small>Cruise dates from to</small>
             </p>
           </div>
