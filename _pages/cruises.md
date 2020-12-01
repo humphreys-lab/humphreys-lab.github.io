@@ -13,11 +13,11 @@ permalink: /cruises/
     <div class='card border-0 shadow'>
       <div class="row no-gutters">
           <div class="col">
-          <img src="https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/cruise-globes/cruise-globe-JC068.png" class="img-fluid" style="max-height: 500px;" alt="Cruise map" />
+          <img src="https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/cruise-globes/cruise-globe-{{ cruise.code }}.png" class="img-fluid" style="max-height: 500px;" alt="Cruise map" />
           </div>
           <div class="col">
           <div class="card-body">
-              <h5 class="card-title">{{ cruise.cruise }} ({{ cruise.vessel }})</h5>
+              <h5 class="card-title">{{ cruise.code }} ({{ cruise.vessel }})</h5>
               <p class="card-text">
               {{cruise.blurb}}
               <br />

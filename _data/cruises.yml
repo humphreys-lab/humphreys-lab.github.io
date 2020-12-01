@@ -1,32 +1,32 @@
-- cruise: PE465
+- code: PE465
   vessel: RV <i>Pelagia</i>
   blurb: "Sinkhole expedition: Luymes Bank, Saba Bank"
   date_from: December 2019
 
-- cruise: JR18002
+- code: JR18002
   vessel: RRS <i>James Clark Ross</i>
   blurb: Drake Passage
   date_from: November 2018
 
-- cruise: JR274
+- code: JR274
   vessel: RRS <i>James Clark Ross</i>
   blurb: UK Ocean Acidification research programme
   date_from: January
   date_to: February 2013
 
-- cruise: JR271
+- code: JR271
   vessel: RRS <i>James Clark Ross</i>
   blurb: UK Ocean Acidification research programme
   date_from: June
   date_to: July 2012
 
-- cruise: JC068
+- code: JC068
   vessel: RRS <i>James Cook</i>
   blurb: GEOTRACES transect GA
   date_from: December 2011
   date_to: January 2012
 
-- cruise: D368
+- code: D368
   vessel: RRS <i>Discovery</i>
   blurb: Repeat occupation of 
   date_from: July
