@@ -1,20 +1,20 @@
-- title: Themes
-  link: /themes/
+# - title: Themes
+#   link: /themes/
 
-- title: Projects
-  link: /proj/
+# - title: Projects
+#   link: /proj/
 
-- title: People
-  link: /people/
+# - title: People
+#   link: /people/
 
-- title: Expeditions
-  link: /cruises/
+# - title: Expeditions
+#   link: /cruises/
 
-- title: Datasets
-  link: /data/
+# - title: Datasets
+#   link: /data/
 
 - title: Publications
   link: /papers/
 
-- title: Contact
-  link: /contact/
+# - title: Contact
+#   link: /contact/
