@@ -6,15 +6,6 @@
   doi: 10.14465/2020.arc03.oac
   image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/mccip-oa-5a.png"
 
-- title: "Modelling seawater carbonate chemistry in shellfish aquaculture regions: Insights into CO<sub>2</sub> release associated with shell formation and growth"
-  year: 2019
-  authors: Morris, J. P. and <b>Humphreys, M. P.</b>
-  journal: Aquaculture
-  volume: 501
-  pages: 338–344
-  doi: 10.1016/j.aquaculture.2018.11.028
-  image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/aquaculture.png"
-
 - title: Mechanisms for a nutrient-conserving carbon pump in a seasonally stratified, temperate continental shelf sea
   year: 2019
   authors: <b>Humphreys, M. P.</b>, Achterberg, E. P., Hopkins, J. E., Chowdhury, M. Z. H., Griffiths, A. M., Hartman, S. E., Hull, T., Smilenova, A., Wihsgott, J., Woodward, E. M. S. and Moore, C. M.
@@ -23,6 +14,15 @@
   pages: 101961
   doi: 10.1016/j.pocean.2018.05.001
   image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/mechanisms-5b.png"
+  
+- title: "Modelling seawater carbonate chemistry in shellfish aquaculture regions: Insights into CO<sub>2</sub> release associated with shell formation and growth"
+  year: 2019
+  authors: Morris, J. P. and <b>Humphreys, M. P.</b>
+  journal: Aquaculture
+  volume: 501
+  pages: 338–344
+  doi: 10.1016/j.aquaculture.2018.11.028
+  image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/aquaculture.png"
 
 - title: On the influence of marine biogeochemical processes over CO<sub>2</sub> exchange between the atmosphere and ocean
   year: 2018
