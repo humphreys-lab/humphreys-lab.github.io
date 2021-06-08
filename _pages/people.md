@@ -17,7 +17,7 @@ permalink: /people/
         <div class="card-body">
           <h5 class="card-title">Dr Matthew Humphreys</h5>
           <p class="card-text">
-            Description
+            PhD in Ocean and Earth Science from the University of Southampton, postdocs at the National Oceanography Centre Southampton and University of East Anglia.
           </p>
         </div>
       </div>
@@ -57,7 +57,7 @@ Previous MSc students at the University of Southampton, plus their (approximate)
 
   * **Dr Jan-Lukas Menzel Barraqueta** (now postdoc at Stellenbosch University, South Africa): *Marine carbonate chemistry and nutrients on the Extended Ellett Line transect, Northeast Atlantic Ocean.*
 
-  * **Dr Alex Griffiths** (completed PhD at Imperial College London): *Accumulation of anthropogenic carbon and acidification of Northeast Atlantic water masses.*
+  * **Dr Alex Griffiths** (since completed PhD at Imperial College London): *Accumulation of anthropogenic carbon and acidification of Northeast Atlantic water masses.*
 
   * **Harriet Compton:** *Surface carbonate chemistry in the Chukchi Sea, Arctic Ocean.*
 
