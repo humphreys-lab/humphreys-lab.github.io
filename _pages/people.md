@@ -43,9 +43,9 @@ Previous MSc students at the University of Southampton, plus their (approximate)
 
   * **Yang Yifei:** *Multi-decadal changes in interior carbonate chemistry in the South Atlantic.*
 
-  * **Charlotte Miskin-Hymas** (now marine data manager at the British Oceanographic Data Centre): *Variability of marine carbonate chemistry in the Benguela upwelling region, South Atlantic.* See [GEOTRACES](../research/geotraces/).
+  * **Charlotte Miskin-Hymas** (now marine data manager at the British Oceanographic Data Centre): *Variability of marine carbonate chemistry in the Benguela upwelling region, South Atlantic.*
 
-  * **Florence Greatrix:** *The stable isotope composition of dissolved inorganic carbon and anthropogenic CO<sub>2</sub> uptake in the subpolar North Atlantic during summer 2014.* See [DIC stable isotopes](../research/isotopes/).
+  * **Florence Greatrix:** *The stable isotope composition of dissolved inorganic carbon and anthropogenic CO<sub>2</sub> uptake in the subpolar North Atlantic during summer 2014.*
 
   * **Dr Jan-Lukas Menzel Barraqueta** (now postdoc at Stellenbosch University, South Africa): *Marine carbonate chemistry and nutrients on the Extended Ellett Line transect, Northeast Atlantic Ocean.*
 
