@@ -23,7 +23,15 @@ permalink: /people/
       </div>
     </div>
     <div class="col-12 col-md-4 mb-5">
-      Louise Delaigue
+      <div class="card border-0 shadow">
+        <img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/fallowfields.jpg" class="card-img-top" alt="Louise Delaigue">
+        <div class="card-body">
+          <h5 class="card-title">Louise Delaigue</h5>
+          <p class="card-text">
+            Description
+          </p>
+        </div>
+      </div>
     </div>
     <div class="col-12 col-md-4 mb-5">
       Person 3
