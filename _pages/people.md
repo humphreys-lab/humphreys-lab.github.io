@@ -10,6 +10,10 @@ permalink: /people/
 <hr />
 
 <div class="container-fluid">
+  {% for person in site.data.people %}
+    {% include person.html %}
+  {% endfor %}
+  <!--
   <div class="row">
     <div class="col-12 col-md-6 mb-5">
       <div class="card border-0 shadow">
@@ -33,12 +37,11 @@ permalink: /people/
         </div>
       </div>
     </div>
-    <!--
     <div class="col-12 col-md-4 mb-5">
       Person 3
     </div>
-    -->
   </div>
+  -->
 </div>
 
 ## Alumni
