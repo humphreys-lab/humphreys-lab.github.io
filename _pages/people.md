@@ -17,7 +17,7 @@ permalink: /people/
         <div class="card-body">
           <h5 class="card-title">Dr Matthew Humphreys</h5>
           <p class="card-text">
-            PhD in Ocean and Earth Science from the University of Southampton, postdocs at the National Oceanography Centre Southampton and University of East Anglia.
+            Tenure-track scientist at NIOZ Texel interested in contemporary marine biogeochemistry with a focus on CO<sub>2</sub>.  PhD in Ocean and Earth Science from the University of Southampton, postdocs at the National Oceanography Centre Southampton and University of East Anglia.
           </p>
         </div>
       </div>
