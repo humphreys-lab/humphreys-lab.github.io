@@ -1,6 +1,13 @@
+- title: "PyCO2SYS v1.7: marine carbonate system calculations in Python"
+  year: 2021, in review
+  authors: <b>Humphreys, M. P.,</b> Lewis, E. R., Sharp, J. D. and Pierrot, D.
+  journal: Geoscientific Model Development Discussions
+  doi: 10.5194/gmd-2021-159
+  image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/pyco2sys-schematic.png"
+
 - title: Air-sea CO<sub>2</sub> exchange and ocean acidification in UK seas and adjacent waters
   year: 2020
-  authors: <b>Humphreys, M. P.</b>, Artioli, Y., Bakker, D. C. E., Hartman, S. E., León, P., Wakelin, S., Walsham, P. and Williamson, P.
+  authors: <b>Humphreys, M. P.,</b> Artioli, Y., Bakker, D. C. E., Hartman, S. E., León, P., Wakelin, S., Walsham, P. and Williamson, P.
   journal: MCCIP Science Review 2020
   pages: 54–75
   doi: 10.14465/2020.arc03.oac
@@ -8,7 +15,7 @@
 
 - title: Mechanisms for a nutrient-conserving carbon pump in a seasonally stratified, temperate continental shelf sea
   year: 2019
-  authors: <b>Humphreys, M. P.</b>, Achterberg, E. P., Hopkins, J. E., Chowdhury, M. Z. H., Griffiths, A. M., Hartman, S. E., Hull, T., Smilenova, A., Wihsgott, J., Woodward, E. M. S. and Moore, C. M.
+  authors: <b>Humphreys, M. P.,</b> Achterberg, E. P., Hopkins, J. E., Chowdhury, M. Z. H., Griffiths, A. M., Hartman, S. E., Hull, T., Smilenova, A., Wihsgott, J., Woodward, E. M. S. and Moore, C. M.
   journal: Progress in Oceanography
   volume: 177
   pages: 101961
@@ -26,7 +33,7 @@
 
 - title: On the influence of marine biogeochemical processes over CO<sub>2</sub> exchange between the atmosphere and ocean
   year: 2018
-  authors: <b>Humphreys, M. P.</b>, Daniels, C. J., Wolf-Gladrow, D. A., Tyrrell, T. and Achterberg, E. P.
+  authors: <b>Humphreys, M. P.,</b> Daniels, C. J., Wolf-Gladrow, D. A., Tyrrell, T. and Achterberg, E. P.
   journal: Marine Chemistry
   volume: 199
   pages: 1–11
@@ -44,7 +51,7 @@
 
 - title: Stable carbon isotopes of dissolved inorganic carbon for a zonal transect across the subpolar North Atlantic Ocean in summer 2014
   year: 2016
-  authors: <b>Humphreys, M. P.</b>, Greatrix, F. M., Tynan, E., Achterberg, E. P., Griffiths, A. M., Fry, C. H., Garley, R., McDonald, A. and Boyce, A. J.
+  authors: <b>Humphreys, M. P.,</b> Greatrix, F. M., Tynan, E., Achterberg, E. P., Griffiths, A. M., Fry, C. H., Garley, R., McDonald, A. and Boyce, A. J.
   journal: Earth System Science Data
   volume: 8
   pages: 221–233
@@ -53,7 +60,7 @@
 
 - title: Multidecadal accumulation of anthropogenic and remineralized dissolved inorganic carbon along the Extended Ellett Line in the northeast Atlantic Ocean
   year: 2016
-  authors: <b>Humphreys, M. P.</b>, Griffiths, A. M., Achterberg, E. P., Holliday, N. P., Rérolle, V. M. C., Menzel Barraqueta, J.-L., Couldrey, M. P., Oliver, K. I. C., Hartman, S. E., Esposito, M. and Boyce, A. J.
+  authors: <b>Humphreys, M. P.,</b> Griffiths, A. M., Achterberg, E. P., Holliday, N. P., Rérolle, V. M. C., Menzel Barraqueta, J.-L., Couldrey, M. P., Oliver, K. I. C., Hartman, S. E., Esposito, M. and Boyce, A. J.
   journal: Global Biogeochemical Cycles
   volume: 30(2)
   pages: 293–310
@@ -62,7 +69,7 @@
 
 - title: Measurements of the stable carbon isotope composition of dissolved inorganic carbon in the northeastern Atlantic and Nordic Seas during summer 2012
   year: 2015
-  authors: <b>Humphreys, M. P.</b>, Achterberg, E. P., Griffiths, A. M., McDonald, A. and Boyce, A. J.
+  authors: <b>Humphreys, M. P.,</b> Achterberg, E. P., Griffiths, A. M., McDonald, A. and Boyce, A. J.
   journal: Earth System Science Data
   volume: 7
   pages: 127–135
