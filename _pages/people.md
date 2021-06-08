@@ -15,6 +15,16 @@ permalink: /people/
   {% endfor %}
 </div>
 
+<br />
+
+## Open positions
+
+<hr />
+
+If you are looking for a Masters level guided research project in the Netherlands, please get in touch!
+
+<br />
+
 ## Alumni
 
 <hr />
