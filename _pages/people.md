@@ -22,10 +22,10 @@ permalink: /people/
         </div>
       </div>
     </div>
-    <div class="col-12 col-md-4">
-      Person 2
+    <div class="col-12 col-md-4 mb-5">
+      Louise Delaigue
     </div>
-    <div class="col-12 col-md-4">
+    <div class="col-12 col-md-4 mb-5">
       Person 3
     </div>
   </div>
