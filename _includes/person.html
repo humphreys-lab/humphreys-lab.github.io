@@ -16,6 +16,9 @@
           <p class="card-text">
             {{ person.blurb }}
           </p>
+          {%- if person.twitter -%}
+          <a href="https://twitter.com/{{ person.twitter }}" class="btn btn-info">@{{ person.twitter }} &raquo;</a>
+          {%- endif -%}
         </div>
       </div>
     </div>
