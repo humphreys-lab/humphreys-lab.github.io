@@ -17,10 +17,10 @@
             {{ person.blurb }}
           </p>
           {%- if person.twitter -%}
-          <a href="https://twitter.com/{{ person.twitter }}" class="btn btn-outline-info btn-sm">@{{ person.twitter }} &raquo;</a> &nbsp;
+          <a href="https://twitter.com/{{ person.twitter }}" class="btn btn-outline-info btn-sm" style="margin: 2px;">@{{ person.twitter }} &raquo;</a>
           {%- endif -%}
           {%- if person.nioz -%}
-          <a href="{{ person.nioz }}" class="btn btn-outline-secondary btn-sm">NIOZ profile &raquo;</a>
+          <a href="{{ person.nioz }}" class="btn btn-outline-secondary btn-sm" style="margin: 2px;">NIOZ profile &raquo;</a>
           {%- endif -%}
         </div>
       </div>
