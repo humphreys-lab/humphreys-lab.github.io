@@ -1,0 +1,17 @@
+<div class="col-md-6 mb-5">
+    <div class='card border-0 shadow'>
+        <div class="card-body">
+            <h5 class="card-title">
+              {{ alumus.name }}
+            </h5>
+            {%- if alumnus.now -%}
+            <p class="card-text"><small>
+              {{ alumnus.now }}
+            </small></p>
+            {%- endif -%}
+            <p class="card-text">
+                {{ alumnus.title }}
+            </p>
+        </div>
+    </div>
+</div>
