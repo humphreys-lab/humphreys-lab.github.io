@@ -1,29 +1,29 @@
-- name: Qiu Shuang
-  title: Controls on the equatorial Pacific as a source of CO<sub>2</sub> to the atmosphere using data from the Surface Ocean CO<sub>2</sub> Atlas (SOCAT).
-
-- name: Li Xue
-  title: The northwest European continental shelf in the Surface Ocean CO<sub>2</sub> Atlas (SOCAT).
-
-- name: Yang Yifei
-  title: Multi-decadal changes in interior carbonate chemistry in the South Atlantic.
+- name: Dr Alex Griffiths
+  now: Since completed PhD at Imperial College London
+  title: Accumulation of anthropogenic carbon and acidification of Northeast Atlantic water masses.
 
 - name: Charlotte Miskin-Hymas
   now: Now marine data manager at the British Oceanographic Data Centre
   title: Variability of marine carbonate chemistry in the Benguela upwelling region, South Atlantic.
 
+- name: Qiu Shuang
+  title: Controls on the equatorial Pacific as a source of CO<sub>2</sub> to the atmosphere using data from the Surface Ocean CO<sub>2</sub> Atlas (SOCAT).
+
 - name: Florence Greatrix
   title: The stable isotope composition of dissolved inorganic carbon and anthropogenic CO<sub>2</sub> uptake in the subpolar North Atlantic during summer 2014.
 
-- name: Dr Jan-Lukas Menzel Barraqueta
-  now: Now postdoc at Stellenbosch University, South Africa
-  title: Marine carbonate chemistry and nutrients on the Extended Ellett Line transect, Northeast Atlantic Ocean.
+- name: Yang Yifei
+  title: Multi-decadal changes in interior carbonate chemistry in the South Atlantic.
 
-- name: Dr Alex Griffiths
-  now: Since completed PhD at Imperial College London
-  title: Accumulation of anthropogenic carbon and acidification of Northeast Atlantic water masses.
+- name: Li Xue
+  title: The northwest European continental shelf in the Surface Ocean CO<sub>2</sub> Atlas (SOCAT).
 
 - name: Harriet Compton
   title: Surface carbonate chemistry in the Chukchi Sea, Arctic Ocean.
 
 - name: Rebecca Conway
   title: Latitudinal gradients in surface ocean CO<sub>2</sub> chemistry across the subtropical North Atlantic Ocean.
+
+- name: Dr Jan-Lukas Menzel Barraqueta
+  now: Now postdoc at Stellenbosch University, South Africa
+  title: Marine carbonate chemistry and nutrients on the Extended Ellett Line transect, Northeast Atlantic Ocean.
