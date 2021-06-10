@@ -1,4 +1,8 @@
+{%- if person.size -%}
+<div class='col-12 col-md-6 mb-3'>
+{%- else -%}
 <div class='col-12 mb-3'>
+{%- endif -%}
   <div class='card border-0 shadow'>
     <div class="row no-gutters">
       {%- if person.image -%}
