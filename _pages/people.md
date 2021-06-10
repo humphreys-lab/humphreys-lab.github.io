@@ -1,5 +1,5 @@
 ---
-title: Our research team
+title: Research team
 blurb: 
 layout: default
 permalink: /people/
