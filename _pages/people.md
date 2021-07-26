@@ -41,7 +41,7 @@ Masters research students from various Dutch universities supervised at the NIOZ
 
 #### University of Southampton
 
-Masters research students supervised at the University of Southampton from 2011 to 2017, plus their (approximate) thesis titles.
+Masters research students supervised at the University of Southampton from 2011 to 2017.
 
 <div class="row">
   {% for alumnus in site.data.alumni_soton %}
