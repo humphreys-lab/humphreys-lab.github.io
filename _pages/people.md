@@ -21,7 +21,7 @@ permalink: /people/
 
 <hr />
 
-If you are looking for a Masters-level guided research project in the Netherlands related to our work, please get in touch!
+If you are looking for a Masters-level research project in the Netherlands related to our work, please get in touch!
 
 <br />
 
