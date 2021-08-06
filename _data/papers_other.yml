@@ -1,3 +1,9 @@
+- title: "RADIv1: a non-steady-state early diagenetic model for ocean sediments in Julia and MATLAB/GNU Octave"
+  year: 2021
+  authors:  Sulpis, O., <b>Humphreys, M. P.</b>, Wilhelmus, M., Carroll, D., Berelson, W., Menemenlis, D., Middelburg, J. and Adkins, J.
+  journal: Geoscientific Model Development Discussions
+  doi: 10.5194/gmd-2021-211
+
 - title: Norwegian Sea net community production estimated from O<sub>2</sub> and prototype CO<sub>2</sub> optode measurements on a Seaglider
   year: 2021
   authors: <b>Possenti, L.,</b> Skjelvan, I., Atamanchuk, D., Tengberg, A., <b>Humphreys, M. P.,</b> Loucaides, S., Fernand, L. and Kaiser, J.
