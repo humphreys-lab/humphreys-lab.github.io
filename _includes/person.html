@@ -19,6 +19,9 @@
           {%- if person.twitter -%}
           <a href="https://twitter.com/{{ person.twitter }}" class="btn btn-outline-info btn-sm" style="margin: 2px;">@{{ person.twitter }} &raquo;</a>
           {%- endif -%}
+          {%- if person.scholar -%}
+          <a href="https://scholar.google.com/citations?user={{ person.scholar }}" class="btn btn-outline-success btn-sm" style="margin: 2px;">Google Scholar &raquo;</a>
+          {%- endif -%}
           {%- if person.nioz -%}
           <a href="{{ person.nioz }}" class="btn btn-outline-secondary btn-sm" style="margin: 2px;">NIOZ profile &raquo;</a>
           {%- endif -%}
