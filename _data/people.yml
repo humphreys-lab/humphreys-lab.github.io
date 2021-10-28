@@ -18,8 +18,9 @@
   twitter: YasmineOcean
   nioz: https://www.nioz.nl/en/about/organisation/staff/yasmina-ourradi
 
+- name: Cecile Hilgen
+  image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-cecile.png
+  blurb: "I am Cecile, an Earth, Life and Climate master student at Utrecht University. The most exciting thing about my half-year research is that I hope to understand why the pH is increasing in the Dutch coastal zone since 2010. I could not find a more inspiring environment than NIOZ, where you meet people with the same interests and live on a bird paradise island: Texel. The goal of my research is to discover the processes responsible for the long-term pH trend of the Dutch coastal zone. I will look at satellite images for algal blooms, plot different parameters with Python to find relationships between biogeochemical processes and the CO2 and compare the Rijkswaterstaat dataset with other datasets. In my free time I like to make my own postcards and jewellery. Furthermore, I play field hockey in the weekends, try to learn ukulele and dance/sing whenever possible!"
+
 - name: Abigail Schiller
   blurb: MSc student from VU Amsterdam modelling the chemical speciation of CO<sub>2</sub> and other equilibria in seawater as a Masters thesis.
-
-- name: Cecile Hilgen
-  blurb: MSc student from Utrecht University investigating decadal trends in North Sea pH as a guided research project.
