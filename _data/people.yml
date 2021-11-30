@@ -22,8 +22,9 @@
   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-cecile.jpg
   blurb: "I am Cecile, an Earth, Life and Climate master student at Utrecht University. The most exciting thing about my half-year research is that I hope to understand why the pH is increasing in the Dutch coastal zone since 2010. I could not find a more inspiring environment than NIOZ, where you meet people with the same interests and live on a bird paradise island: Texel. The goal of my research is to discover the processes responsible for the long-term pH trend of the Dutch coastal zone. I will look at satellite images for algal blooms, plot different parameters with Python to find relationships between biogeochemical processes and the CO<sub>2</sub> and compare the Rijkswaterstaat dataset with other datasets. In my free time I like to make my own postcards and jewellery. Furthermore, I play field hockey in the weekends, try to learn ukulele and dance/sing whenever possible!"
 
+- name: Simen Bootsma
+  image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-simen.jpg
+  blurb: I am Simen, an Applied Physics master student from the University of Twente. During my six-month internship at NIOZ, I will investigate marine alkalinity using the Water Mass Transformation Framework, thus combining the areas of expertise of my supervisors Matthew Humphreys and Sjoerd Groeskamp.  Initially, we will focus on global alkalinity budgets and shift to local scales when time permits.
+
 - name: Abigail Schiller
   blurb: MSc student from VU Amsterdam modelling the chemical speciation of CO<sub>2</sub> and other equilibria in seawater as a Masters thesis.
-
-- name: Simen Bootsma
-  blurb: MSc student from the University of Twente studying the marine alkalinity cycle using the Water Mass Transformation Framework as a Masters thesis.  Co-supervised by Sjoerd Groeskamp.
