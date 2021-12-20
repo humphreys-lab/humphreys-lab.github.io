@@ -5,7 +5,7 @@ layout: default
 permalink: /people/
 ---
 
-## Current lab members
+## Current group members
 
 <hr />
 
