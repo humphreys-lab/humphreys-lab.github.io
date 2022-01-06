@@ -5,11 +5,13 @@
   doi: 10.5194/bg-2021-244
   image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/saba-maps.png"
 
-- title: "PyCO2SYS v1.7: marine carbonate system calculations in Python"
-  year: 2021, in review
+- title: "PyCO2SYS v1.8: marine carbonate system calculations in Python"
+  year: 2022
   authors: <b>Humphreys, M. P.,</b> Lewis, E. R., Sharp, J. D. and Pierrot, D.
-  journal: Geoscientific Model Development Discussions
-  doi: 10.5194/gmd-2021-159
+  journal: Geoscientific Model Development
+  volume: 15
+  pages: 15-43
+  doi: 10.5194/gmd-15-15-2022
   image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/pyco2sys-schematic.png"
 
 - title: Air-sea CO<sub>2</sub> exchange and ocean acidification in UK seas and adjacent waters
