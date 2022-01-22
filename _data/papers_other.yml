@@ -1,13 +1,25 @@
+- title: Best Practice Data Standards for Discrete Chemical Oceanographic Observations
+  year: 2022
+  authors: Jiang, L.-Q., Pierrot, D., Wanninkhof, R., Feely, R. A., Tilbrook, B., Alin, S., Barbero, L., Byrne, R. H., Carter, B. R., Dickson, A. G., Gattuso, J.-P., Greeley, D., Hoppema, M., <b>Humphreys, M. P.,</b> Karstensen, J., Lange, N., Lauvset, S. K., Lewis, E. R., Olsen, A., Pérez, F. F., Sabine, C., Sharp, J. D., Tanhua, T., Trull, T. W., Velo, A., Allegra, A. J., Barker, P., Burger, E., Cai, W.-J., Chen, C.-T. A., Cross, J., Garcia, H., Hernandez-Ayon, J. M., Hu, X., Kozyr, A., Langdon, C., Lee, K., Salisbury, J., Wang, Z. A. and Xue, L
+  journal: Frontiers in Marine Science
+  volume: 8
+  pages: 705638
+  doi: 10.3389/fmars.2021.705638
+
 - title: Equilibrium calculations of iron speciation and apparent iron solubility in the Celtic Sea at ambient seawater pH using the NICA-Donnan model
   year: 2021
   authors: Zhu, K., Birchill, A. J., Milne, A., Ussher, S., <b>Humphreys, M. P.,</b> Carr, N., Mahaffey, C., Lohan, M. C., Achterberg, E. P. and Gledhill, M.
   journal: Marine Chemistry
+  volume: 237
+  pages: 104038
   doi: 10.1016/j.marchem.2021.104038
 
 - title: "Air-Sea Gas Fluxes and Remineralization From a Novel Combination of pH and O<sub>2</sub> Sensors on a Glider"
   year: 2021
   authors: <b>Possenti, L., Humphreys, M. P.,</b> Bakker, D. C. E., Cobas-García, M., Fernand, L., Lee, G. A., Pallottino, F., Loucaides, S., Mowlem, M. C. and Kaiser, J.
   journal: Frontiers in Marine Science
+  volume: 8
+  pages: 696772
   doi: 10.3389/fmars.2021.696772
 
 - title: "RADIv1: a non-steady-state early diagenetic model for ocean sediments in Julia and MATLAB/GNU Octave"
