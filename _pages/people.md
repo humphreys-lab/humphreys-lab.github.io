@@ -41,7 +41,7 @@ Masters research students from various Dutch universities supervised at the NIOZ
 
 #### University of Southampton
 
-Masters research students supervised at the University of Southampton from 2011 to 2017.
+Masters research students supervised by Matthew Humphreys from 2011 to 2017 at the University of Southampton.
 
 <div class="row">
   {% for alumnus in site.data.alumni_soton %}
