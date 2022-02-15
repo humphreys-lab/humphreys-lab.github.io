@@ -25,6 +25,3 @@
 - name: Simen Bootsma
   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-simen.png
   blurb: I am Simen, an Applied Physics master student from the University of Twente. During my six-month internship at NIOZ, I will investigate marine alkalinity using the Water Mass Transformation Framework, thus combining the areas of expertise of my supervisors Matthew Humphreys and Sjoerd Groeskamp.  Initially, we will focus on global alkalinity budgets and shift to local scales when time permits.
-
-- name: Abigail Schiller
-  blurb: MSc student from VU Amsterdam modelling the chemical speciation of CO<sub>2</sub> and other equilibria in seawater as a Masters thesis.
