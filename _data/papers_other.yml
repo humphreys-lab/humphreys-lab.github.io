@@ -12,6 +12,14 @@
   pages: 104095
   doi: 10.1016/j.marchem.2022.104095
 
+- title: "RADIv1: a non-steady-state early diagenetic model for ocean sediments in Julia and MATLAB/GNU Octave"
+  year: 2022
+  volume: 15(5)
+  pages: 2105-2131
+  authors:  Sulpis, O., <b>Humphreys, M. P.</b>, Wilhelmus, M., Carroll, D., Berelson, W., Menemenlis, D., Middelburg, J. and Adkins, J.
+  journal: Geoscientific Model Development
+  doi: 10.5194/gmd-15-2105-2022
+
 - title: Best Practice Data Standards for Discrete Chemical Oceanographic Observations
   year: 2022
   authors: Jiang, L.-Q., Pierrot, D., Wanninkhof, R., Feely, R. A., Tilbrook, B., Alin, S., Barbero, L., Byrne, R. H., Carter, B. R., Dickson, A. G., Gattuso, J.-P., Greeley, D., Hoppema, M., <b>Humphreys, M. P.,</b> Karstensen, J., Lange, N., Lauvset, S. K., Lewis, E. R., Olsen, A., Pérez, F. F., Sabine, C., Sharp, J. D., Tanhua, T., Trull, T. W., Velo, A., Allegra, A. J., Barker, P., Burger, E., Cai, W.-J., Chen, C.-T. A., Cross, J., Garcia, H., Hernandez-Ayon, J. M., Hu, X., Kozyr, A., Langdon, C., Lee, K., Salisbury, J., Wang, Z. A. and Xue, L
@@ -35,12 +43,6 @@
   volume: 8
   pages: 696772
   doi: 10.3389/fmars.2021.696772
-
-- title: "RADIv1: a non-steady-state early diagenetic model for ocean sediments in Julia and MATLAB/GNU Octave"
-  year: 2021, in review
-  authors:  Sulpis, O., <b>Humphreys, M. P.</b>, Wilhelmus, M., Carroll, D., Berelson, W., Menemenlis, D., Middelburg, J. and Adkins, J.
-  journal: Geoscientific Model Development Discussions
-  doi: 10.5194/gmd-2021-211
 
 - title: Norwegian Sea net community production estimated from O<sub>2</sub> and prototype CO<sub>2</sub> optode measurements on a Seaglider
   year: 2021
@@ -66,7 +68,7 @@
   pages: 2825–2837
   doi: 10.5194/bg-17-2825-2020
 
-- title: Surface ocean carbonate chemistry and air-sea CO<sub>2</sub> fluxes across the northwest European continental shelf sea
+- title: Seasonality and spatial heterogeneity of the surface ocean carbonate system in the northwest European continental shelf
   year: 2019
   authors: Hartman, S. E., <b>Humphreys, M. P.,</b> Kivimäe, C., Woodward, E. M. S., Kitidis, V., McGrath, T., Hydes, D. J., Greenwood, N., Hull, T., Ostle, C., Pearce, D. J., Sivyer, D., Stewart, B. M., Walsham, P., Painter, S. C., McGovern, E., Harris, C., <b>Griffiths, A.,</b> Smilenova, A., Clarke, J., Davis, C., Sanders, R. and Nightingale, P.
   journal: Progress in Oceanography
