@@ -19,6 +19,7 @@
   nioz: https://www.nioz.nl/en/about/organisation/staff/yasmina-ourradi
 
 - name: Ben Cala
+  image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/person-icon.png
   blurb: PhD student at NIOZ Texel investigating marine calcium carbonate dissolution.
   twitter: ben_a_cala
   nioz: https://www.nioz.nl/en/about/organisation/staff/ben-cala
@@ -28,6 +29,7 @@
   blurb: I am Simen, an Applied Physics master student from the University of Twente. During my six-month internship at NIOZ, I will investigate marine alkalinity using the Water Mass Transformation Framework, thus combining the areas of expertise of my supervisors Matthew Humphreys and Sjoerd Groeskamp.  Initially, we will focus on global alkalinity budgets and shift to local scales when time permits.
 
 - name: Job Thijssen
+  image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/person-icon.png
   blurb: Masters student from the VU Amsterdam studying CO<sub>2</sub> system changes around methane seeps in the North Sea.
 
 # - name: Irene Rollingswier
