@@ -21,6 +21,12 @@ permalink: /people/
 
 <hr />
 
+### PhD positions and postdocs
+
+We are currently recruiting for a 4-year PhD student and soon a 3-year postdoc both as part of the [NoSE project](https://www.nioz.nl/en/news/how-coastal-seas-help-the-ocean-in-absorbing-carbon-dioxide-from-the-atmosphere)!  The PhD is already open to apply for [here](https://workingat.nioz.nl/o/phd-position-dissolved-co2-and-nutrient-cycling-across-the-north-seaatlantic-ocean-frontier-nose-project) and the postdoc will follow soon.
+
+### Masters projects
+
 If you are looking for a Masters-level research project in the Netherlands related to our work, please get in touch!
 
 <br />
