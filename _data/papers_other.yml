@@ -1,9 +1,10 @@
 - title: "GLODAPv2.2022: the latest version of the global interior ocean biogeochemical data product"
   year: 2022
   authors: Lauvset, S. K., Lange, N., Tanhua, T., Bittig, H. C., Olsen, A., Kozyr, A., Alin, S. R., Álvarez, M., Azetsu-Scott, K., Barbero, L., Becker, S., Brown, P. J., Carter, B. R., da Cunha, L. C., Feely, R. A., Hoppema, M., <b>Humphreys, M. P.</b>, Ishii, M., Jeansson, E., Jiang, L.-Q., Jones, S. D., Lo Monaco, C., Murata, A., Müller, J. D., Pérez, F. F., Pfeil, B., Schirnick, C., Steinfeldt, R., Suzuki, T., Tilbrook, B., Ulfsbo, A., Velo, A., Woosley, R. J. and Key, R. M.
-  journal: Earth System Science Data Discussions
-  pages: in review
-  doi: 10.5194/essd-2022-293
+  journal: Earth System Science Data
+  volume: 14
+  pages: 5543-5572
+  doi: 10.5194/essd-14-5543-2022
 
 - title: Seasonal water mass evolution and non-Redfield dynamics enhance CO<sub>2</sub> uptake in the Chukchi Sea
   year: 2022
