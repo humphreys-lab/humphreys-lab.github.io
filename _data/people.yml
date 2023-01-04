@@ -1,7 +1,9 @@
 - name: Dr Matthew P. Humphreys
   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-matthew.png
   blurb: Tenure-track scientist at NIOZ Texel in the Department of Ocean Systems (OCS) since November 2019.  Interested in the changing biogeochemistry of the modern ocean, with a focus on CO<sub>2</sub>.  Conducts ocean-going, observation-based research alongside theoretical studies of the marine carbonate system and develops related scientific software.  Previously based in the UK at the universities of Cambridge (undergrad), Southampton (PhD and postdoc), and East Anglia (postdoc).
-  twitter: matthew_vdh
+  mastodon: mvdh
+  mastodon_server: fediscience.org
+  # twitter: matthew_vdh
   nioz: https://www.nioz.nl/en/about/organisation/staff/matthew-humphreys
   scholar: FAuQyqMAAAAJ
 
@@ -24,10 +26,6 @@
   twitter: ben_a_cala
   nioz: https://www.nioz.nl/en/about/organisation/staff/ben-cala
 
-- name: Simen Bootsma
-  image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-simen.png
-  blurb: I am Simen, an Applied Physics master student from the University of Twente. During my six-month internship at NIOZ, I will investigate marine alkalinity using the Water Mass Transformation Framework, thus combining the areas of expertise of my supervisors Matthew Humphreys and Sjoerd Groeskamp.  Initially, we will focus on global alkalinity budgets and shift to local scales when time permits.
-
 - name: Job Thijssen
   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/person-icon.png
   blurb: Masters student from the VU Amsterdam studying CO<sub>2</sub> system changes around methane seeps in the North Sea.
@@ -35,6 +33,10 @@
 - name: Anne Roozendaal
   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/person-icon.png
   blurb: Masters student from Utrecht University studying anthropogenic CO<sub>2</sub> uptake in the South Atlantic Ocean.
+
+# - name: Simen Bootsma
+#   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-simen.png
+#   blurb: I am Simen, an Applied Physics master student from the University of Twente. During my six-month internship at NIOZ, I will investigate marine alkalinity using the Water Mass Transformation Framework, thus combining the areas of expertise of my supervisors Matthew Humphreys and Sjoerd Groeskamp.  Initially, we will focus on global alkalinity budgets and shift to local scales when time permits.
 
 # - name: Irene Rollingswier
 #   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-irene.JPG

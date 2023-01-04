@@ -19,6 +19,9 @@
           {%- if person.twitter -%}
           <a href="https://twitter.com/{{ person.twitter }}" class="btn btn-outline-info btn-sm" style="margin: 2px;">@{{ person.twitter }} &raquo;</a>
           {%- endif -%}
+          {%- if person.mastodon -%}
+          <a href="https://{{ person.mastodon_server }}/{{ person.mastodon }}" class="btn btn-outline-info btn-sm" style="margin: 2px;">@{{ person.mastodon }}@{{ person.mastodon_server }} &raquo;</a>
+          {%- endif -%}
           {%- if person.scholar -%}
           <a href="https://scholar.google.com/citations?user={{ person.scholar }}" class="btn btn-outline-success btn-sm" style="margin: 2px;">Google Scholar &raquo;</a>
           {%- endif -%}
