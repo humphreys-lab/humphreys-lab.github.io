@@ -15,7 +15,7 @@ permalink: /papers/
 
 <br />
 
-<h2>Collaborations and earlier work</h2>
+<h2>Collaborations, earlier work and in review</h2>
 <hr />
 <div class='container'>
   {% for paper in site.data.papers_other %}
