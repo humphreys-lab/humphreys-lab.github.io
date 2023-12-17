@@ -52,7 +52,7 @@ Masters research projects for students from various Dutch universities (VU, UU, 
 
 #### University of Southampton
 
-Masters research projects supervised by Matthew Humphreys from 2011 to 2017 at the University of Southampton:
+Masters research projects supervised by Matthew Humphreys at the University of Southampton from 2011 to 2017:
 
   * Accumulation of anthropogenic carbon and acidification of Northeast Atlantic water masses.
   *  Variability of marine carbonate chemistry in the Benguela upwelling region, South Atlantic.
