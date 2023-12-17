@@ -11,6 +11,7 @@
   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/person-icon.png
   blurb: Postdoc at NIOZ (Texel) on the NoSE project (North Sea-Atlantic exchange).
   nioz: https://www.nioz.nl/en/about/organisation/staff/margaux-brandon
+  scholar: 9CznUnIAAAAJ
 
 - name: Louise Delaigue
   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-louise.jpg
@@ -21,15 +22,16 @@
 
 - name: Yasmina Ourradi
   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-yasmine.png
-  blurb: PhD student at NIOZ Texel in the Department of Ocean Systems (OCS) since August 2021. My research project aims at exploring and better understanding the human impact, especially infrastructure development such as offshore wind farms, on the carbonate system (mainly the pH) in the North Sea. The project is carried out through a combination of laboratory studies and high-resolution autonomous CO<sub>2</sub> system sensors that will be deployed in the Sea. MSc from the Mediterranean Institute of Oceanography (France).
+  blurb: PhD student at NIOZ Texel in the Department of Ocean Systems (OCS) since August 2021.  My research project aims at exploring and better understanding the human impact, especially infrastructure development such as offshore wind farms, on the carbonate system (mainly the pH) in the North Sea. The project is carried out through a combination of laboratory studies and high-resolution autonomous CO<sub>2</sub> system sensors that will be deployed in the Sea. MSc from the Mediterranean Institute of Oceanography (France).
   # twitter: YasmineOurradi
   nioz: https://www.nioz.nl/en/about/organisation/staff/yasmina-ourradi
 
 - name: Ben Cala
   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-ben.jpg
-  blurb: PhD student at NIOZ (Texel) and Utrecht University since February 2022. After jumping from organometallic and computational chemistry during my BSc at the University of Tübingen (Germany) to atmospheric chemistry at Cambridge University (UK), I now ended up in chemical oceanography. I am interested in the dissolution of calcium carbonate in the water column. Specifically, my project aims to identify drivers of dissolution apart from the saturation state, through field and lab experiments as well as modelling approaches.
+  blurb: PhD student at NIOZ (Texel) and Utrecht University since February 2022 After jumping from organometallic and computational chemistry during my BSc at the University of Tübingen (Germany) to atmospheric chemistry at Cambridge University (UK), I now ended up in chemical oceanography.  I am interested in the dissolution of calcium carbonate in the water column.  Specifically, my project aims to identify drivers of dissolution apart from the saturation state, through field and lab experiments as well as modelling approaches.
   # twitter: ben_a_cala
   nioz: https://www.nioz.nl/en/about/organisation/staff/ben-cala
+  scholar: V0zXcz8AAAAJ
 
 - name: Marina Anita Ádler
   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/person-icon.png

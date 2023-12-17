@@ -1,9 +1,9 @@
-- name: Dr A. Griffiths
-  now: Since completed PhD at Imperial College London
+- name: A. Griffiths
+  # now: Since completed PhD at Imperial College London
   title: Accumulation of anthropogenic carbon and acidification of Northeast Atlantic water masses
 
 - name: C. Miskin-Hymas
-  now: Now marine data manager at the British Oceanographic Data Centre
+  # now: Now marine data manager at the British Oceanographic Data Centre
   title: Variability of marine carbonate chemistry in the Benguela upwelling region, South Atlantic
 
 - name: Qiu S.
@@ -24,6 +24,6 @@
 - name: R. Hampshire
   title: Latitudinal gradients in surface ocean CO<sub>2</sub> chemistry across the subtropical North Atlantic Ocean
 
-- name: Dr J.-L. Menzel Barraqueta
-  now: Now postdoc at Stellenbosch University, South Africa
+- name: J.-L. Menzel Barraqueta
+  # now: Now postdoc at Stellenbosch University, South Africa
   title: Marine carbonate chemistry and nutrients on the Extended Ellett Line transect, Northeast Atlantic Ocean
