@@ -1,23 +1,27 @@
-- name: Simen Bootsma
+- name: J. Thijssen
+  now: Vrije Universiteit (VU) Amsterdam
+  
+
+- name: S. Bootsma
   now: University of Twente
   title: "<i>Guided research:</i> Computation of global calcium carbonate dissolution from diapycnal alkalinity transport (co-supervised by Sjoerd Groeskamp)"
 
-- name: Irene Rollingswier
+- name: I. Rollingswier
   now: Vrije Universiteit (VU) Amsterdam
   title: "<i>Masters thesis:</i> Predicting the marine carbonate system in the surface of the Southern Bight of the North Sea: based on extreme gradient boosting models"
 
-- name: Cecile Hilgen
+- name: C. Hilgen
   now: Utrecht University
   title: "<i>Guided research:</i> The carbonate system on the long-term in the Dutch coastal zone: ocean acidification in reverse?"
 
-- name: Abigail Schiller
+- name: A. Schiller
   now: Vrije Universiteit (VU) Amsterdam
   title: <i>Guided research:</i> Effects of seawater composition on the dissociation of carbonic acid
 
-- name: Hanna van de Mortel
+- name: H. van de Mortel
   now: Utrecht University
   title: <i>Guided research:</i> Seasonal and inter-annual variability of pH and relevant biogeochemical cycles along the Dutch coastal zone
 
-- name: Alisha Combee
+- name: A. Combee
   now: Vrije Universiteit (VU) Amsterdam
   title: <i>Masters thesis:</i> Ocean acidification and air-sea CO<sub>2</sub> exchange in the Dutch North Sea
