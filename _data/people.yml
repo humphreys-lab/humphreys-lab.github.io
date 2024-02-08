@@ -1,13 +1,13 @@
 - name: Dr Matthew P. Humphreys
   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-matthew.png
-  blurb: Tenure-track scientist at NIOZ Texel in the Department of Ocean Systems (OCS) since November 2019.  Interested in the changing biogeochemistry of the modern ocean, with a focus on CO<sub>2</sub>.  Conducts ocean-going, observation-based research alongside theoretical studies of the marine carbonate system and develops related scientific software.  Previously based in the UK at the universities of Cambridge (undergrad), Southampton (PhD and postdoc), and East Anglia (postdoc).
+  blurb: Scientist at NIOZ Texel in the Department of Ocean Systems (OCS) since November 2019.  Interested in the changing biogeochemistry of the modern ocean, with a focus on CO<sub>2</sub>.  Conducts ocean-going, observation-based research alongside theoretical studies of the marine carbonate system and develops related scientific software.  Previously based in the UK at the universities of Cambridge (undergrad), Southampton (PhD and postdoc), and East Anglia (postdoc).
   # mastodon: mvdh
   # mastodon_server: fediscience.org
   # twitter: matthew_vdh
   nioz: https://www.nioz.nl/en/about/organisation/staff/matthew-humphreys
   scholar: FAuQyqMAAAAJ
 
-- name: Margaux Brandon
+- name: Dr Margaux Brandon
   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/person-icon.png
   blurb: Postdoc at NIOZ (Texel) on the NoSE project (North Sea-Atlantic exchange).
   nioz: https://www.nioz.nl/en/about/organisation/staff/margaux-brandon
