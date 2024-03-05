@@ -1,5 +1,13 @@
-- title: "The annual update GLODAPv2.2023: the global interior ocean biogeochemical data product"
+- title: "Temperature effect on seawater <i>ƒ</i>CO<sub>2</sub> revisited: theoretical basis, uncertainty analysis, and implications for parameterising carbonic acid equilibrium constants"
   year: 2024, in review
+  authors: <b>Humphreys, M. P.</b>
+  journal: EGUsphere [preprint]
+  # volume: 
+  # pages:
+  doi: 10.5194/egusphere-2024-626
+
+- title: "The annual update GLODAPv2.2023: the global interior ocean biogeochemical data product"
+  year: 2024, in press
   authors: Lauvset, S. K., Lange, N., Tanhua, T., Bittig, H. C., Olsen, A., Kozyr, A., Álvarez, M., Azetsu-Scott, K., Brown, P. J., Carter, B. R., Cotrim da Cunha, L., Hoppema, M., <b>Humphreys, M. P.</b>, Ishii, M., Jeansson, E., Murata, A., Müller, J. D., Perez, F. F., Schirnick, C., Steinfeldt, R., Suzuki, T., Ulfsbo, A., Velo, A., Woosley, R. J. and Key, R.
   journal: Earth System Science Data Discussions
   pages: 1-32
@@ -12,6 +20,14 @@
   # volume: 
   # pages:
   doi: 10.22541/essoar.170049909.97841965/v1
+
+- title: Laboratory Observation of the Buffering Effect of Aragonite Dissolution at the Seafloor
+  year: 2024
+  authors: van de Mortel, H., Delaigue, L., Humphreys, M. P., Middelburg, J. J., Ossebaar, S., Bakker, K., Trabucho Alexandre, J. P., van Leeuwen-Tolboom, A. W. E., Wolthers, M. and Sulpis, O.
+  journal: "Journal of Geophysical Research: Biogeosciences"
+  volume: 129
+  pages: e2023JG007581
+  doi: 10.1029/2023JG007581
 
 - title: Proton Binding Characteristics of Dissolved Organic Matter Extracted from the North Atlantic
   year: 2023
