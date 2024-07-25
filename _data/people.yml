@@ -38,9 +38,9 @@
   blurb: PhD student at NIOZ Texel in the Department of Ocean Systems (OCS) since March 2023.  I am involved in the NoSE Project, an interdisciplinary consortium aiming to understand carbon and nutrient cycling within the North Sea and the North Atlantic Ocean. My project deals with the inorganic carbonate, inorganic nutrient, and dissolved trace metal chemistry in the water column.  Our study area is the Norwegian Trench, where three of our expeditions take place on board RV Pelagia.  I obtained my Marine Sciences master's degree at Utrecht University (Netherlands) and my Biology/Biochemistry bachelor's degree at Eotvos Lorand University (ELTE, Hungary).
   nioz: https://www.nioz.nl/en/about/organisation/staff/marina-adler
 
-- name: Nynke Massop
-  image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/person-icon.png
-  blurb: Masters student from Wageningen University & Research (WUR) studying organic alkalinity in the Wadden Sea.
+# - name: Nynke Massop
+#   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/person-icon.png
+#   blurb: Masters student from Wageningen University & Research (WUR) studying organic alkalinity in the Wadden Sea.
   # nioz: https://www.nioz.nl/en/about/organisation/staff/nynke-massop
 
 # - name: Job Thijssen
