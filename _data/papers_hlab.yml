@@ -29,7 +29,7 @@
   year: 2020
   authors: <b>Humphreys, M. P.,</b> Artioli, Y., Bakker, D. C. E., Hartman, S. E., León, P., Wakelin, S., Walsham, P. and Williamson, P.
   journal: MCCIP Science Review 2020
-  pages: 54–75
+  pages: 54-75
   doi: 10.14465/2020.arc03.oac
   image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/mccip-oa-5a.png"
 
@@ -47,7 +47,7 @@
   authors: Morris, J. P. and <b>Humphreys, M. P.</b>
   journal: Aquaculture
   volume: 501
-  pages: 338–344
+  pages: 338-344
   doi: 10.1016/j.aquaculture.2018.11.028
   image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/aquaculture.png"
 
@@ -56,7 +56,7 @@
   authors: <b>Humphreys, M. P.,</b> Daniels, C. J., Wolf-Gladrow, D. A., Tyrrell, T. and Achterberg, E. P.
   journal: Marine Chemistry
   volume: 199
-  pages: 1–11
+  pages: 1-11
   doi: 10.1016/j.marchem.2017.12.006
   image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/influence-maps.png"
 
@@ -83,7 +83,7 @@
   authors: <b>Humphreys, M. P.,</b> <b>Griffiths, A. M.,</b> Achterberg, E. P., Holliday, N. P., Rérolle, V. M. C., <b>Menzel Barraqueta, J.-L.,</b> Couldrey, M. P., Oliver, K. I. C., Hartman, S. E., Esposito, M. and Boyce, A. J.
   journal: Global Biogeochemical Cycles
   volume: 30(2)
-  pages: 293–310
+  pages: 293-310
   doi: 10.1002/2015GB005246
   image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/eel-rates.png"
 
@@ -92,6 +92,6 @@
 #   authors: <b>Humphreys, M. P.,</b> Achterberg, E. P., <b>Griffiths, A. M.,</b> McDonald, A. and Boyce, A. J.
 #   journal: Earth System Science Data
 #   volume: 7
-#   pages: 127–135
+#   pages: 127-135
 #   doi: 10.5194/essd-7-127-2015
 #   image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/isotopes-1.png"
