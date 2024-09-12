@@ -118,6 +118,14 @@
   pages: 59-74
   doi: 10.3354/meps13561
 
+- title: Air-sea CO<sub>2</sub> exchange and ocean acidification in UK seas and adjacent waters
+  year: 2020
+  authors: <b>Humphreys, M. P.,</b> Artioli, Y., Bakker, D. C. E., Hartman, S. E., León, P., Wakelin, S., Walsham, P. and Williamson, P.
+  journal: MCCIP Science Review 2020
+  pages: 54-75
+  doi: 10.14465/2020.arc03.oac
+  # image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/mccip-oa-5a.png"
+
 - title: The pH dependency of the boron isotopic composition of diatom opal (<i>Thalassiosira weissflogii</i>)
   year: 2020
   authors: Donald, H. K., Foster, G. L., Fröhberg, N., Swann, G. E. A., Poulton, A., Moore, C. M. and <b>Humphreys, M. P.</b>
@@ -257,4 +265,5 @@
   volume: 7
   pages: 127-135
   doi: 10.5194/essd-7-127-2015
+  # image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/isotopes-1.png"
   

@@ -1,15 +1,24 @@
+- title: The Changing Biological Carbon Pump of the South Atlantic Ocean
+  year: 2024
+  authors: <b>Delaigue, L.</b>, Sulpis, O., Reichart, G.-J. and <b>Humphreys, M. P.</b>
+  journal: Global Biogeochemical Cycles
+  volume: 38(9)
+  pages: e2024GB008202
+  doi: 10.1029/2024GB008202
+  image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/delaigue-fig.png"
+
 - title: Synthesis of in situ marine calcium carbonate dissolution kinetic measurements in the water column
   year: 2024
   authors: <b>Cala, B.</b>, Sulpis, O., Wolthers, M. and <b>Humphreys, M. P.</b>
   journal: Global Biogeochemical Cycles
-  volume: 38
+  volume: 38(9)
   pages: e2023GB008009
   doi: 10.1029/2023GB008009
   image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/cala-fig.png"
 
 - title: "Dissolution of a submarine carbonate platform by a submerged lake of acidic seawater"
   year: 2022
-  authors: <b>Humphreys, M. P.</b>, Meesters, E. H., de Haas, H., Karancz, S., <b>Delaigue, L.</b>, Bakker, K., Duineveld, G., de Goeyse, S., Haas, A., Mienis, F., Ossebaar, S., and van Duyl, F. C.
+  authors: <b>Humphreys, M. P.</b>, Meesters, E. H., de Haas, H., Karancz, S., <b>Delaigue, L.</b>, Bakker, K., Duineveld, G., de Goeyse, S., Haas, A., Mienis, F., Ossebaar, S. and van Duyl, F. C.
   journal: Biogeosciences
   volume: 19
   pages: 347-358
@@ -24,14 +33,6 @@
   pages: 15-43
   doi: 10.5194/gmd-15-15-2022
   image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/pyco2sys-schematic.png"
-
-- title: Air-sea CO<sub>2</sub> exchange and ocean acidification in UK seas and adjacent waters
-  year: 2020
-  authors: <b>Humphreys, M. P.,</b> Artioli, Y., Bakker, D. C. E., Hartman, S. E., León, P., Wakelin, S., Walsham, P. and Williamson, P.
-  journal: MCCIP Science Review 2020
-  pages: 54-75
-  doi: 10.14465/2020.arc03.oac
-  image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/mccip-oa-5a.png"
 
 - title: Mechanisms for a nutrient-conserving carbon pump in a seasonally stratified, temperate continental shelf sea
   year: 2019
@@ -65,7 +66,7 @@
   authors: <b>Humphreys, M. P.</b>
   journal: ICES Journal of Marine Science
   volume: 74(4)
-  pages: 934–940
+  pages: 934-940
   doi: 10.1093/icesjms/fsw189
   image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/csoa-aragonite.png"
 
@@ -74,7 +75,7 @@
   authors: <b>Humphreys, M. P.,</b> <b>Greatrix, F. M.,</b> Tynan, E., Achterberg, E. P., <b>Griffiths, A. M.,</b> Fry, C. H., Garley, R., McDonald, A. and Boyce, A. J.
   journal: Earth System Science Data
   volume: 8
-  pages: 221–233
+  pages: 221-233
   doi: 10.5194/essd-8-221-2016
   image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/isotopes-2.png"
 
@@ -86,12 +87,3 @@
   pages: 293-310
   doi: 10.1002/2015GB005246
   image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/eel-rates.png"
-
-# - title: Measurements of the stable carbon isotope composition of dissolved inorganic carbon in the northeastern Atlantic and Nordic Seas during summer 2012
-#   year: 2015
-#   authors: <b>Humphreys, M. P.,</b> Achterberg, E. P., <b>Griffiths, A. M.,</b> McDonald, A. and Boyce, A. J.
-#   journal: Earth System Science Data
-#   volume: 7
-#   pages: 127-135
-#   doi: 10.5194/essd-7-127-2015
-#   image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/isotopes-1.png"
