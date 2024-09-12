@@ -4,14 +4,14 @@
   # mastodon: mvdh
   # mastodon_server: fediscience.org
   # twitter: matthew_vdh
-  nioz: https://www.nioz.nl/en/about/organisation/staff/matthew-humphreys
+  nioz: matthew-humphreys
   scholar: FAuQyqMAAAAJ
   linkedin: mphumphreys
 
 - name: Dr Margaux Brandon
   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-margaux.jpg
   blurb: Postdoc at NIOZ Texel in the Department of Ocean Systems (OCS) since October 2023.  Within the NoSE project (North Sea Atlantic Exchange), I am investigating the carbon and nutrient cycling in the Norwegian Trench to quantify their exchange between the North Sea, the Atlantic Ocean and the atmosphere.  Previously, I obtained my PhD in Paleoclimatology at GEOPS/LSCE, Université Paris-Saclay (France), followed by a postdoc in modern marine biogeochemistry at LOCEAN, Sorbonne Université (France).
-  nioz: https://www.nioz.nl/en/about/organisation/staff/margaux-brandon
+  nioz: margaux-brandon
   scholar: 9CznUnIAAAAJ
   linkedin: margaux-brandon-407260b6
 
@@ -19,7 +19,7 @@
   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-louise.jpg
   blurb: PhD student at NIOZ Texel in the Department of Ocean Systems (OCS) since February 2020.  My project explores blindspots in the marine carbon cycle with a focus on how the ocean responds to increasing anthropogenic CO<sub>2</sub> emissions, especially in under-sampled regions such as the southern Indian and Pacific Oceans.  I use scientific programming to investigate new measurements in combination with already existing datasets.  MSc from McGill University (Canada).
   # twitter: LouiseDelaigue
-  nioz: https://www.nioz.nl/en/about/organisation/staff/louise-delaigue
+  nioz: louise-delaigue
   scholar: 4ewYhRMAAAAJ
   linkedin: louise-delaigue
 
@@ -27,25 +27,26 @@
   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-yasmine.png
   blurb: PhD student at NIOZ Texel in the Department of Ocean Systems (OCS) since August 2021.  My research project aims at exploring and better understanding the human impact, especially infrastructure development such as offshore wind farms, on the carbonate system (mainly the pH) in the North Sea. The project is carried out through a combination of laboratory studies and high-resolution autonomous CO<sub>2</sub> system sensors that will be deployed in the Sea. MSc from the Mediterranean Institute of Oceanography (France).
   # twitter: YasmineOurradi
-  nioz: https://www.nioz.nl/en/about/organisation/staff/yasmina-ourradi
+  nioz: yasmina-ourradi
   linkedin: yasmina-ourradi-ab6a3717a
 
 - name: Ben Cala
   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-ben.jpg
   blurb: PhD student at NIOZ (Texel) and Utrecht University since February 2022.  After jumping from organometallic and computational chemistry during my BSc at the University of Tübingen (Germany) to atmospheric chemistry at Cambridge University (UK), I now ended up in chemical oceanography.  I am interested in the dissolution of calcium carbonate in the water column.  Specifically, my project aims to identify drivers of dissolution apart from the saturation state, through field and lab experiments as well as modelling approaches.
   # twitter: ben_a_cala
-  nioz: https://www.nioz.nl/en/about/organisation/staff/ben-cala
+  nioz: ben-cala
   scholar: V0zXcz8AAAAJ
   linkedin: ben-cala-b6b204208
 
 - name: Marina Anita Ádler
   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-marina.png
   blurb: PhD student at NIOZ Texel in the Department of Ocean Systems (OCS) since March 2023.  I am involved in the NoSE Project, an interdisciplinary consortium aiming to understand carbon and nutrient cycling within the North Sea and the North Atlantic Ocean. My project deals with the inorganic carbonate, inorganic nutrient, and dissolved trace metal chemistry in the water column.  Our study area is the Norwegian Trench, where three of our expeditions take place on board RV Pelagia.  I obtained my Marine Sciences master's degree at Utrecht University (Netherlands) and my Biology/Biochemistry bachelor's degree at Eotvos Lorand University (ELTE, Hungary).
-  nioz: https://www.nioz.nl/en/about/organisation/staff/marina-adler
+  nioz: marina-adler
 
 - name: Fleur Rothstegge
   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/person-icon.png
   blurb: Masters student from Utrecht University studying the role of Agulhas rings in the South Atlantic Ocean carbon cycle.
+  nioz: fleur-rothstegge
 
 # - name: Nynke Massop
 #   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/person-icon.png
