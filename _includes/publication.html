@@ -23,9 +23,14 @@
             {%- endif -%}.
           </small></p>
           {%- if paper.doi -%}
-          <p class="card-text">
+          <!-- <p class="card-text"> -->
             <a class="btn btn-outline-primary btn-sm" href="https://doi.org/{{ paper.doi }}">doi:{{ paper.doi }}</a>
-          </p>
+          <!-- </p> -->
+          {%- endif -%}
+          {%- if paper.pdf -%}
+          <!-- <p class="card-text"> -->
+            <a class="btn btn-outline-info btn-sm" href="https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/pdfs/{{ paper.pdf }}.pdf">Download pdf »</a>
+          <!-- </p> -->
           {%- endif -%}
         </div>
       </div>
