@@ -66,6 +66,7 @@
   pages: 1-11
   doi: 10.1016/j.marchem.2017.12.006
   image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/influence-maps.png"
+  pdf: humphreys-2018-mc
 
 - title: "Climate sensitivity and the rate of ocean acidification: future impacts, and implications for experimental design"
   year: 2017
@@ -75,6 +76,7 @@
   pages: 934-940
   doi: 10.1093/icesjms/fsw189
   image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/csoa-aragonite.png"
+  pdf: humphreys-2017-ices
 
 - title: Stable carbon isotopes of dissolved inorganic carbon for a zonal transect across the subpolar North Atlantic Ocean in summer 2014
   year: 2016
@@ -84,6 +86,7 @@
   pages: 221-233
   doi: 10.5194/essd-8-221-2016
   image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/isotopes-2.png"
+  pdf: humphreys-2016-essd
 
 - title: Multidecadal accumulation of anthropogenic and remineralized dissolved inorganic carbon along the Extended Ellett Line in the northeast Atlantic Ocean
   year: 2016
@@ -93,3 +96,4 @@
   pages: 293-310
   doi: 10.1002/2015GB005246
   image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/eel-rates.png"
+  pdf: humphreys-2016-gbc
