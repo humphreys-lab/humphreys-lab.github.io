@@ -16,6 +16,7 @@
   pages: e2023GB008009
   doi: 10.1029/2023GB008009
   image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/cala-fig.png"
+  pdf: cala-2024-pdf
 
 - title: "Dissolution of a submarine carbonate platform by a submerged lake of acidic seawater"
   year: 2022
@@ -25,6 +26,7 @@
   pages: 347-358
   doi: 10.5194/bg-19-347-2022
   image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/saba-maps.png"
+  pdf: humphreys-2022-bgs
 
 - title: "PyCO2SYS v1.8: marine carbonate system calculations in Python"
   year: 2022
@@ -34,6 +36,7 @@
   pages: 15-43
   doi: 10.5194/gmd-15-15-2022
   image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/pyco2sys-schematic.png"
+  pdf: humphreys-2022-gmd
 
 - title: Mechanisms for a nutrient-conserving carbon pump in a seasonally stratified, temperate continental shelf sea
   year: 2019
@@ -43,6 +46,7 @@
   pages: 101961
   doi: 10.1016/j.pocean.2018.05.001
   image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/mechanisms-5b.png"
+  pdf: humphreys-2019-po
   
 - title: "Modelling seawater carbonate chemistry in shellfish aquaculture regions: Insights into CO<sub>2</sub> release associated with shell formation and growth"
   year: 2019
@@ -52,6 +56,7 @@
   pages: 338-344
   doi: 10.1016/j.aquaculture.2018.11.028
   image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/aquaculture.png"
+  pdf: morris-2019-aqua
 
 - title: On the influence of marine biogeochemical processes over CO<sub>2</sub> exchange between the atmosphere and ocean
   year: 2018
