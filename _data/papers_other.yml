@@ -149,6 +149,7 @@
   volume: 9
   pages: 20153
   doi: 10.1038/s41598-019-56363-5
+  pdf: kitidis-2019-scirep
 
 - title: Impact of Nonzero Intercept Gas Transfer Velocity Parameterizations on Global and Regional Ocean–Atmosphere CO<sub>2</sub> Fluxes
   year: 2019
@@ -157,6 +158,7 @@
   volume: 9(5)
   pages: 230
   doi: 10.3390/geosciences9050230
+  pdf: ribasribas-2019-gs
 
 - title: Isotopic fractionation of carbon during uptake by phytoplankton across the South Atlantic subtropical convergence
   year: 2019
@@ -165,6 +167,7 @@
   volume: 16
   pages: 3621-3635
   doi: 10.5194/bg-16-3621-2019
+  pdf: tuerena-2019-bgs
 
 - title: What drives the latitudinal gradient in open ocean surface dissolved inorganic carbon concentration?
   year: 2019
@@ -173,6 +176,7 @@
   volume: 16
   pages: 2661-2681
   doi: 10.5194/bg-16-2661-2019
+  pdf: wu-2019-bgs
 
 - title: Controls on open-ocean North Atlantic Δ<i>p</i>CO<sub>2</sub> at seasonal and interannual timescales are different
   year: 2018
@@ -180,6 +184,7 @@
   journal: Geophysical Research Letters
   volume: 45
   doi: 10.1029/2018GL078797
+  pdf: henson-2018-grl
 
 - title: Geographical CO<sub>2</sub> sensitivity of phytoplankton correlates with ocean buffer capacity
   year: 2018
@@ -188,6 +193,7 @@
   volume: 24
   pages: 4438-4452
   doi: 10.1111/gcb.14324
+  pdf: richier-2018-gcb
 
 - title: The GEOTRACES Intermediate Data Product 2017
   year: 2018
@@ -196,6 +202,7 @@
   volume: 493
   pages: 210-223
   doi: 10.1016/j.chemgeo.2018.05.040
+  pdf: schlitzer-2018-cg
 
 - title: Biological Pump
   year: 2017
@@ -210,6 +217,7 @@
   journal: Frontiers in Marine Science
   volume: 4(396)
   doi: 10.3389/fmars.2017.00396
+  pdf: clarke-2017-fms
 
 - title: A multi-decade record of high-quality <i>f</i>CO<sub>2</sub> data in version 3 of the Surface Ocean CO<sub>2</sub> Atlas (SOCAT)
   year: 2016
@@ -218,6 +226,7 @@
   volume: 8
   pages: 383-413
   doi: 10.5194/essd-8-383-2016
+  pdf: bakker-2016-essd
 
 - title: An internally consistent dataset of δ<sup>13</sup>C-DIC in the North Atlantic Ocean – NAC13v1
   year: 2016
@@ -226,6 +235,7 @@
   volume: 8
   pages: 559-570
   doi: 10.5194/essd-8-559-2016
+  pdf: becker-2016-essd
 
 - title: Species-specific calcite production reveals <i>Coccolithus pelagicus</i> as the key calcifier in the Arctic Ocean
   year: 2016
@@ -234,6 +244,7 @@
   volume: 555
   pages: 29-47
   doi: 10.3354/meps11820
+  pdf: daniels-2016-meps
 
 - title: "Carbon dioxide and ocean acidification observations in UK waters: Synthesis report with a focus on 2010–2015"
   year: 2016
@@ -241,6 +252,7 @@
   journal: Department for Environment, Food and Rural Affairs
   pages: pp. 44
   doi: 10.13140/RG.2.1.4819.4164
+  pdf: ostle-2016
 
 - title: "Production of dissolved organic carbon by Arctic plankton communities: Responses to elevated carbon dioxide and the availability of light and nutrients"
   year: 2016
@@ -257,6 +269,7 @@
   volume: 127
   pages: 7-27
   doi: 10.1016/j.dsr2.2016.01.001
+  pdf: tynan-2016-dsr2
 
 - title: Measurements of the stable carbon isotope composition of dissolved inorganic carbon in the northeastern Atlantic and Nordic Seas during summer 2012
   year: 2015
@@ -266,4 +279,5 @@
   pages: 127-135
   doi: 10.5194/essd-7-127-2015
   # image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/isotopes-1.png"
+  pdf: humphreys-2015-essd
   
