@@ -13,6 +13,7 @@
   volume: 16
   pages: 2047-2072
   doi: 10.5194/essd-16-2047-2024
+  pdf: lauvset-2024-essd
 
 - title: Laboratory Observation of the Buffering Effect of Aragonite Dissolution at the Seafloor
   year: 2024
@@ -21,6 +22,7 @@
   volume: 129
   pages: e2023JG007581
   doi: 10.1029/2023JG007581
+  pdf: vandemortel-2024-jgrb
 
 - title: Proton Binding Characteristics of Dissolved Organic Matter Extracted from the North Atlantic
   year: 2023
@@ -29,6 +31,7 @@
   volume: 57
   pages: 21136-21144
   doi: 10.1021/acs.est.3c01810
+  pdf: lodeiro-2023-est
 
 - title: "GLODAPv2.2022: the latest version of the global interior ocean biogeochemical data product"
   year: 2022
@@ -37,6 +40,7 @@
   volume: 14
   pages: 5543-5572
   doi: 10.5194/essd-14-5543-2022
+  pdf: lauvset-2022-essd
 
 - title: Seasonal water mass evolution and non-Redfield dynamics enhance CO<sub>2</sub> uptake in the Chukchi Sea
   year: 2022
@@ -45,6 +49,7 @@
   volume: 127
   pages: e2021JC018326
   doi: 10.1029/2021JC018326
+  pdf: ouyang-2022-jgro
 
 - title: Enhanced mercury reduction in the South Atlantic Ocean during carbon remineralization
   year: 2022
@@ -53,6 +58,7 @@
   volume: 178
   pages: 113644
   doi: 10.1016/j.marpolbul.2022.113644
+  pdf: zivkovic-2022-mpb
 
 - title: "Chemical speciation models based upon the Pitzer activity coefficient equations, including the propagation of uncertainties.  II.  Tris buffers in artificial seawater at 25 °C, and an assessment of the seawater 'Total' pH scale"
   year: 2022
@@ -61,6 +67,7 @@
   volume: 244
   pages: 104096
   doi: 10.1016/j.marchem.2022.104096
+  pdf: clegg-2022-mc
 
 - title: "Chemical speciation models based upon the Pitzer activity coefficient equations, including the propagation of uncertainties.  I. Artificial seawater from 0 to 45 °C"
   year: 2022
@@ -69,6 +76,7 @@
   volume: 244
   pages: 104095
   doi: 10.1016/j.marchem.2022.104095
+  pdf: humphreys-2022-mc
 
 - title: "RADIv1: a non-steady-state early diagenetic model for ocean sediments in Julia and MATLAB/GNU Octave"
   year: 2022
@@ -77,6 +85,7 @@
   authors:  Sulpis, O., <b>Humphreys, M. P.</b>, Wilhelmus, M., Carroll, D., Berelson, W., Menemenlis, D., Middelburg, J. and Adkins, J.
   journal: Geoscientific Model Development
   doi: 10.5194/gmd-15-2105-2022
+  pdf: sulpis-2022-gmd
 
 - title: Best Practice Data Standards for Discrete Chemical Oceanographic Observations
   year: 2022
@@ -85,6 +94,7 @@
   volume: 8
   pages: 705638
   doi: 10.3389/fmars.2021.705638
+  pdf: jiang-2022-fms
 
 - title: Equilibrium calculations of iron speciation and apparent iron solubility in the Celtic Sea at ambient seawater pH using the NICA-Donnan model
   year: 2021
@@ -101,6 +111,7 @@
   volume: 8
   pages: 696772
   doi: 10.3389/fmars.2021.696772
+  pdf: possenti-2021-fms
 
 - title: Norwegian Sea net community production estimated from O<sub>2</sub> and prototype CO<sub>2</sub> optode measurements on a Seaglider
   year: 2021
@@ -109,6 +120,7 @@
   volume: 17
   pages: 593-614
   doi: 10.5194/os-17-593-2021
+  pdf: possenti-2021-os
 
 - title: "Short-term responses to ocean acidification: effects on relative abundance of eukaryotic plankton from the tropical Timor Sea"
   year: 2021
@@ -125,6 +137,7 @@
   pages: 54-75
   doi: 10.14465/2020.arc03.oac
   # image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/mccip-oa-5a.png"
+  pdf: humphreys-2020-mccip
 
 - title: The pH dependency of the boron isotopic composition of diatom opal (<i>Thalassiosira weissflogii</i>)
   year: 2020
@@ -133,6 +146,7 @@
   volume: 17
   pages: 2825-2837
   doi: 10.5194/bg-17-2825-2020
+  pdf: donald-2020-bgs
 
 - title: Seasonality and spatial heterogeneity of the surface ocean carbonate system in the northwest European continental shelf
   year: 2019
