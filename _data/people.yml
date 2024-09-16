@@ -44,9 +44,10 @@
   nioz: marina-adler
 
 - name: Fleur Rothstegge
-  image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/person-icon.png
+  image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-fleur.jpg
   blurb: Masters student from Utrecht University studying the role of Agulhas rings in the South Atlantic Ocean carbon cycle.
   nioz: fleur-rothstegge
+  linkedin: fleur-rothstegge
 
 # - name: Nynke Massop
 #   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/person-icon.png
