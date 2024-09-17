@@ -15,6 +15,7 @@
   nioz: margaux-brandon
   scholar: 9CznUnIAAAAJ
   linkedin: margaux-brandon-407260b6
+  github: MargauxBrandon
 
 - name: Louise Delaigue
   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-louise.jpg
@@ -23,6 +24,7 @@
   nioz: louise-delaigue
   scholar: 4ewYhRMAAAAJ
   linkedin: louise-delaigue
+  github: louisedelaigue
 
 - name: Yasmina Ourradi
   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-yasmine.png
@@ -30,6 +32,7 @@
   # twitter: YasmineOurradi
   nioz: yasmina-ourradi
   linkedin: yasmina-ourradi-ab6a3717a
+  github: YOurradi
 
 - name: Ben Cala
   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-ben.jpg
@@ -38,17 +41,20 @@
   nioz: ben-cala
   scholar: V0zXcz8AAAAJ
   linkedin: ben-cala-b6b204208
+  github: bcala1
 
 - name: Marina Anita Ádler
   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-marina.png
   blurb: PhD student at NIOZ Texel in the Department of Ocean Systems (OCS) since March 2023.  I am involved in the NoSE Project, an interdisciplinary consortium aiming to understand carbon and nutrient cycling within the North Sea and the North Atlantic Ocean. My project deals with the inorganic carbonate, inorganic nutrient, and dissolved trace metal chemistry in the water column.  Our study area is the Norwegian Trench, where three of our expeditions take place on board RV Pelagia.  I obtained my Marine Sciences master's degree at Utrecht University (Netherlands) and my Biology/Biochemistry bachelor's degree at Eotvos Lorand University (ELTE, Hungary).
   nioz: marina-adler
+  github: marinaadler
 
 - name: Fleur Rothstegge
   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-fleur.jpg
   blurb: Masters student from Utrecht University studying the role of Agulhas rings in the South Atlantic Ocean carbon cycle.
   nioz: fleur-rothstegge
   linkedin: fleur-rothstegge
+  github: fleurrothstegge
 
 # - name: Nynke Massop
 #   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/person-icon.png
