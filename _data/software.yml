@@ -1,0 +1,6 @@
+- name: PyCO2SYS
+  description: Marine carbonate system calculations in Python.
+  authors: Humphreys, M. P. et al.
+  doi: 10.5281/zenodo.3744275
+  github: mvdh7/PyCO2SYS
+  docs: https://pyco2sys.readthedocs.io/en/latest/

@@ -1,0 +1,32 @@
+<div class='col-12 mb-3'>
+  <div class='card border-0 shadow'>
+    <div class="row no-gutters">
+      {%- if software.image -%}
+      <div class="col-12 col-md-3 text-center">
+        <img src="{{ software.image }}" class="img-fluid" style="max-height: 200px;" alt="" />
+      </div>
+      <div class="col-12 col-md-9">
+      {%- else -%}
+      <div class="col-auto">
+      {%- endif -%}
+        <div class="card-body">
+          <h5 class="card-title">
+            {{ software.title }}
+          </h5>
+          <p class="card-text">
+            {{ software.description }}
+          </p>
+          {%- if software.doi -%}
+            <a class="btn btn-outline-primary btn-sm" href="https://doi.org/{{ software.doi }}" target="_blank">doi:{{ software.doi }} »</a>
+          {%- endif -%}
+          {%- if software.github -%}
+            <a class="btn btn-outline-info btn-sm" href="https://github.com/{{ software.github }}" target="_blank">GitHub ({{ software.github }}) »</a>
+          {%- endif -%}
+          {%- if software.docs -%}
+            <a class="btn btn-outline-info btn-sm" href="{{ software.docs }}" target="_blank">Documentation »</a>
+          {%- endif -%}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
