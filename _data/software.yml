@@ -1,6 +1,11 @@
 - title: PyCO2SYS
   description: Marine carbonate system calculations in Python.  PyCOSYS allows you to solve the marine carbonate system from any two of its known parameters, or convert pCO<sub>2</sub> (or fCO<sub>2</sub>) to different temperatures without knowledge of a second parameter.
-  authors: Humphreys, M. P. et al.
   doi: 10.5281/zenodo.3744275
   github: mvdh7/PyCO2SYS
   docs: https://pyco2sys.readthedocs.io/en/latest/
+
+- title: Calkulate
+  description: Total alkalinity from titration data in Python.  Calkulate uses a least-squares solver and PyCO2SYS to find total alkalinity from potentiometric titration measurements.
+  doi: 10.5281/zenodo.2634304
+  github: mvdh7/calkulate
+  docs: https://mvdh.xyz/calkulate/
