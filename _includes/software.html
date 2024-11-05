@@ -1,9 +1,9 @@
 <div class='col-12 mb-3'>
   <div class='card border-0 shadow'>
     <div class="row no-gutters">
-      {%- if software.image -%}
+      {%- if program.image -%}
       <div class="col-12 col-md-3 text-center">
-        <img src="{{ software.image }}" class="img-fluid" style="max-height: 200px;" alt="" />
+        <img src="{{ program.image }}" class="img-fluid" style="max-height: 200px;" alt="" />
       </div>
       <div class="col-12 col-md-9">
       {%- else -%}
@@ -11,19 +11,19 @@
       {%- endif -%}
         <div class="card-body">
           <h5 class="card-title">
-            {{ software.title }}
+            {{ program.title }}
           </h5>
           <p class="card-text">
-            {{ software.description }}
+            {{ program.description }}
           </p>
-          {%- if software.doi -%}
-            <a class="btn btn-outline-primary btn-sm" href="https://doi.org/{{ software.doi }}" target="_blank">doi:{{ software.doi }} »</a>
+          {%- if program.doi -%}
+            <a class="btn btn-outline-primary btn-sm" href="https://doi.org/{{ program.doi }}" target="_blank">doi:{{ program.doi }} »</a>
           {%- endif -%}
-          {%- if software.github -%}
-            <a class="btn btn-outline-info btn-sm" href="https://github.com/{{ software.github }}" target="_blank">GitHub ({{ software.github }}) »</a>
+          {%- if program.github -%}
+            <a class="btn btn-outline-info btn-sm" href="https://github.com/{{ program.github }}" target="_blank">GitHub ({{ program.github }}) »</a>
           {%- endif -%}
-          {%- if software.docs -%}
-            <a class="btn btn-outline-info btn-sm" href="{{ software.docs }}" target="_blank">Documentation »</a>
+          {%- if program.docs -%}
+            <a class="btn btn-outline-info btn-sm" href="{{ program.docs }}" target="_blank">Documentation »</a>
           {%- endif -%}
         </div>
       </div>
