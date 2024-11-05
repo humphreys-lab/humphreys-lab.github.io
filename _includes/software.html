@@ -17,13 +17,13 @@
             {{ program.description }}
           </p>
           {%- if program.doi -%}
-            <a class="btn btn-outline-primary btn-sm" href="https://doi.org/{{ program.doi }}" target="_blank">doi:{{ program.doi }} »</a>
+          <a class="btn btn-outline-primary btn-sm" href="https://doi.org/{{ program.doi }}" target="_blank">doi:{{ program.doi }}</a>
           {%- endif -%}
           {%- if program.github -%}
-            <a class="btn btn-outline-info btn-sm" href="https://github.com/{{ program.github }}" target="_blank">GitHub ({{ program.github }}) »</a>
+          <a class="btn btn-outline-dark btn-sm" href="https://github.com/{{ program.github }}" target="_blank">GitHub ({{ program.github }}) »</a>
           {%- endif -%}
           {%- if program.docs -%}
-            <a class="btn btn-outline-dark btn-sm" href="{{ program.docs }}" target="_blank">Documentation »</a>
+          <a class="btn btn-outline-info btn-sm" href="{{ program.docs }}" target="_blank">Documentation »</a>
           {%- endif -%}
         </div>
       </div>
