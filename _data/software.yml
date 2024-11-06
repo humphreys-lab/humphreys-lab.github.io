@@ -2,10 +2,38 @@
   description: Marine carbonate system calculations in Python.  PyCOSYS allows you to solve the marine carbonate system from any two of its known parameters, or convert pCO<sub>2</sub> (or fCO<sub>2</sub>) to different temperatures without knowledge of a second parameter.
   doi: 10.5281/zenodo.3744275
   github: mvdh7/PyCO2SYS
-  docs: https://pyco2sys.readthedocs.io/en/latest/
+  docs: https://pyco2sys.hseao3.group
 
 - title: Calkulate
   description: Total alkalinity from titration data in Python.  Calkulate uses a least-squares solver and PyCO2SYS to find total alkalinity from potentiometric titration measurements.
   doi: 10.5281/zenodo.2634304
   github: mvdh7/calkulate
-  docs: https://mvdh.xyz/calkulate/
+  docs: https://calkulate.hseao3.group
+
+- title: Koolstof
+  description: Processing dissolved inorganic carbon (DIC) data from VINDTAs, pH measurements by spectrophotometer, and other miscellaneous things.  In the future, this will be split up so that Koolstof only retains the DIC processing part.
+  doi: 10.5281/zenodo.3999292
+  github: mvdh7/koolstof
+  docs: https://koolstof.readthedocs.io/en/latest/
+
+- title: Pytzer
+  description: Pitzer model for chemical activities and speciation in aqueous solutions.
+  doi: 10.5281/zenodo.2637914
+  github: mvdh7/pytzer
+  docs: https://pytzer.hseao3.group
+
+- title: pHroc
+  description: A GUI for processing pH measurements by spectrophotometer.
+  doi: 10.5281/zenodo.13961237
+  github: mvdh7/phroc
+
+- title: Dreamcoat
+  description: The joyful oceanographic seagoing expedition planning helper.  Tools for planning and working with data from research cruises.
+  doi: 10.5281/zenodo.11203452 
+  github: mvdh7/dreamcoat
+
+- title: OptopHyre
+  description: Tools for processing data from PyroScience pH optode sensors.
+  doi: 10.5281/zenodo.13885219 
+  github: mvdh7/optophyre
+  
