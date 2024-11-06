@@ -16,7 +16,7 @@
           <p class="card-text">
             <a href="https://pypi.org/project/{{ program.title }}/" target="_blank"><img src="https://img.shields.io/pypi/v/{{ program.title }}.svg?style=popout" class="img-fluid" alt="PyPI version" /></a>
             <a href="https://anaconda.org/conda-forge/{{ program.title }}/" target="_blank"><img src="https://img.shields.io/conda/vn/conda-forge/{{ program.title }}.svg?style=popout" class="img-fluid" alt="Conda-forge version" /></a>
-            <br /><br />
+            <hr />
             {{ program.description }}
           </p>
           {%- if program.doi -%}
