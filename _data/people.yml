@@ -17,15 +17,6 @@
   linkedin: margaux-brandon-407260b6
   github: MargauxBrandon
 
-- name: Louise Delaigue
-  image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-louise.jpg
-  blurb: PhD student at NIOZ Texel in the Department of Ocean Systems (OCS) since February 2020.  My project explores blindspots in the marine carbon cycle with a focus on how the ocean responds to increasing anthropogenic CO<sub>2</sub> emissions, especially in under-sampled regions such as the southern Indian and Pacific Oceans.  I use scientific programming to investigate new measurements in combination with already existing datasets.  MSc from McGill University (Canada).
-  # twitter: LouiseDelaigue
-  nioz: louise-delaigue
-  scholar: 4ewYhRMAAAAJ
-  linkedin: louise-delaigue
-  github: louisedelaigue
-
 - name: Yasmina Ourradi
   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-yasmine.png
   blurb: PhD student at NIOZ Texel in the Department of Ocean Systems (OCS) since August 2021.  My research project aims at exploring and better understanding the human impact, especially infrastructure development such as offshore wind farms, on the carbonate system (mainly the pH) in the North Sea. The project is carried out through a combination of laboratory studies and high-resolution autonomous CO<sub>2</sub> system sensors that will be deployed in the Sea. MSc from the Mediterranean Institute of Oceanography (France).
@@ -49,12 +40,21 @@
   nioz: marina-adler
   github: marinaadler
 
-- name: Fleur Rothstegge
-  image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-fleur.jpg
-  blurb: Masters student from Utrecht University studying the role of Agulhas rings in the South Atlantic Ocean carbon cycle.
-  nioz: fleur-rothstegge
-  linkedin: fleur-rothstegge
-  github: fleurrothstegge
+# - name: Louise Delaigue
+#   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-louise.jpg
+#   blurb: PhD student at NIOZ Texel in the Department of Ocean Systems (OCS) since February 2020.  My project explores blindspots in the marine carbon cycle with a focus on how the ocean responds to increasing anthropogenic CO<sub>2</sub> emissions, especially in under-sampled regions such as the southern Indian and Pacific Oceans.  I use scientific programming to investigate new measurements in combination with already existing datasets.  MSc from McGill University (Canada).
+#   # twitter: LouiseDelaigue
+#   nioz: louise-delaigue
+#   scholar: 4ewYhRMAAAAJ
+#   linkedin: louise-delaigue
+#   github: louisedelaigue
+
+# - name: Fleur Rothstegge
+#   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/people-fleur.jpg
+#   blurb: Masters student from Utrecht University studying the role of Agulhas rings in the South Atlantic Ocean carbon cycle.
+#   nioz: fleur-rothstegge
+#   linkedin: fleur-rothstegge
+#   github: fleurrothstegge
 
 # - name: Nynke Massop
 #   image: https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/master/images/person-icon.png
