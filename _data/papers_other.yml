@@ -35,14 +35,14 @@
   doi: 10.1007/978-981-96-2520-8_4
   pdf: bakker-2025-crmo
 
-- title: "From small scale variability to mesoscale stability in surface ocean pH: implications for air-sea CO<sub>2</sub> equilibration "
-  year: 2024, in review
-  authors: <b>Delaigue, L.</b>, Reichart, G.-J., Galley, C., <b>Ourradi, Y.</b> and <b>Humphreys, M. P.</b>
-  journal: EGUsphere [preprint]
-  # volume: 
-  # pages:
-  doi: 10.5194/egusphere-2024-2853
-  pdf: delaigue-2024-egusphere
+- title: "From small scale variability to mesoscale stability in surface ocean pH: implications for air-sea CO<sub>2</sub> equilibration"
+  year: 2025
+  authors: <b>Delaigue, L.</b>, Reichart, G.-J., Qiu, L., Achterberg, E. P., <b>Ourradi, Y.</b>, Galley, C., Mutzberg, A., and <b>Humphreys, M. P.</b>
+  journal: Biogeosciences
+  volume: 22
+  pages: 5103-5121
+  doi: 10.5194/bg-22-5103-2025
+  pdf: delaigue-2025-bgs
 
 - title: "The annual update GLODAPv2.2023: the global interior ocean biogeochemical data product"
   year: 2024
