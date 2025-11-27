@@ -1,3 +1,14 @@
+- title: Blank variability in coulometric measurements of dissolved inorganic carbon
+  year: 2025
+  authors: <b>Humphreys, M. P.</b>, and Ossebaar, S.
+  journal: Ocean Science
+  volume: 21
+  issue: 6
+  pages: 3123-3130
+  doi: 10.5194/os-21-3123-2025
+  image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/coulometer-fig.png"
+  pdf: humphreys-2025-os
+
 - title: "Temperature effect on seawater <i>ƒ</i>CO<sub>2</sub> revisited: theoretical basis, uncertainty analysis and implications for parameterising carbonic acid equilibrium constants"
   year: 2024
   authors: <b>Humphreys, M. P.</b>
