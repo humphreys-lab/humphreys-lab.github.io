@@ -1,3 +1,12 @@
+- title: Synthesis of data products for ocean carbonate chemistry
+  year: 2026
+  authors: Jiang, L.-Q. et al. [68 authors incl. <b>Humphreys, M. P.</b>]
+  journal: Earth System Science Data
+  volume: 18
+  pages: 1405-1462
+  doi: 10.5194/essd-18-1405-2026
+  pdf: jiang-2026-essd
+
 - title: The contributions of various calcifying plankton to the South Atlantic calcium carbonate stock
   year: 2026
   authors: Kruijt, A. L., van Dijk, R., Sulpis, O., Beaufort, L., Lassus, G., Brummer, G.-J., van der Burg, A. D., <b>Cala, B. A.</b>, <b>Ourradi, Y.</b>, Peijnenburg, K. T. C. A., <b>Humphreys, M. P.</b>, Chaabane, S., Sluijs, A., and Middelburg, J. J.
@@ -27,13 +36,6 @@
   journal: EGUsphere [preprint]
   doi: 10.5194/egusphere-2025-2244
   pdf: vanderzant-2025-egusphere
-
-- title: Synthesis of data products for ocean carbonate chemistry
-  year: 2025, in review
-  authors: Jiang, L.-Q. et al. [68 authors incl. <b>Humphreys, M. P.</b>]
-  journal: EGUsphere [preprint]
-  doi: 10.5194/essd-2025-255
-  pdf: jiang-2025-egusphere
 
 - title: Maintaining Inter-Comparability of Nutrient Measurements
   year: 2025
