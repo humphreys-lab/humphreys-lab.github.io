@@ -1,3 +1,13 @@
+- title: Furthest-first inversion for internal consistency adjustments in the biogeochemical data product GLODAPv3
+  year: 2026
+  authors: <b>Humphreys, M. P.</b>, Lauvset, S. K., Lange, N., Bittig, H. C., Carter, B. R., Hoppema, M., Murata, A., Olsen, A., Tanhua, T., Ulfsbo, A., Velo, A., Woosley, R. J., Azetsu-Scott, K., Müller, J. D., and Pérez, F. F.
+  journal: Ocean Science
+  volume: 22
+  pages: 3403-3414
+  doi: 10.5194/os-22-3403-2026
+  image: "https://raw.githubusercontent.com/humphreys-lab/humphreys-lab.github.io/main/images/glodap3-methods.png"
+  pdf: humphreys-2026-os
+
 - title: Marine carbonate system variability from tidal to seasonal timescales at the interface between the North Sea and Wadden Sea
   year: 2026
   authors: <b>Ourradi, Y.</b>, Reichart, G.-J., van Leeuwen, S., and <b>Humphreys, M. P.</b>
